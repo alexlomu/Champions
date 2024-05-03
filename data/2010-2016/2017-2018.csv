@@ -1,0 +1,126 @@
+MATCH_ID,SEASON,DATE_TIME,HOME_TEAM,AWAY_TEAM,STADIUM,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,PENALTY_SHOOT_OUT,ATTENDANCE
+mt495,2017-2018,12-SEP-17 07.45.00.000000000 PM,Manchester United,FC Basel,Old Trafford,3,0,0,73854
+mt496,2017-2018,12-SEP-17 07.45.00.000000000 PM,SL Benfica,CSKA Moskva,Estádio da Luz,1,2,0,38323
+mt497,2017-2018,27-SEP-17 07.45.00.000000000 PM,FC Basel,SL Benfica,St. Jakob-Park,5,0,0,34111
+mt498,2017-2018,27-SEP-17 07.45.00.000000000 PM,CSKA Moskva,Manchester United,VEB Arena,1,4,0,29073
+mt499,2017-2018,18-OCT-17 07.45.00.000000000 PM,SL Benfica,Manchester United,Estádio da Luz,0,1,0,57684
+mt500,2017-2018,18-OCT-17 07.45.00.000000000 PM,CSKA Moskva,FC Basel,VEB Arena,0,2,0,27996
+mt501,2017-2018,31-OCT-17 07.45.00.000000000 PM,Manchester United,SL Benfica,Old Trafford,2,0,0,74437
+mt502,2017-2018,31-OCT-17 07.45.00.000000000 PM,FC Basel,CSKA Moskva,St. Jakob-Park,1,2,0,33303
+mt503,2017-2018,22-NOV-17 05.00.00.000000000 PM,CSKA Moskva,SL Benfica,VEB Arena,2,0,0,27709
+mt504,2017-2018,22-NOV-17 07.45.00.000000000 PM,FC Basel,Manchester United,St. Jakob-Park,1,0,0,36000
+mt505,2017-2018,05-DEC-17 07.45.00.000000000 PM,SL Benfica,FC Basel,Estádio da Luz,0,2,0,22470
+mt506,2017-2018,05-DEC-17 07.45.00.000000000 PM,Manchester United,CSKA Moskva,Old Trafford,2,1,0,74669
+mt507,2017-2018,12-SEP-17 07.45.00.000000000 PM,Bayern München,RSC Anderlecht,Allianz Arena,3,0,0,70000
+mt508,2017-2018,12-SEP-17 07.45.00.000000000 PM,Celtic FC,Paris Saint-Germain,Celtic Park,0,5,0,57562
+mt509,2017-2018,27-SEP-17 07.45.00.000000000 PM,Paris Saint-Germain,Bayern München,Parc des Princes,3,0,0,46252
+mt510,2017-2018,27-SEP-17 07.45.00.000000000 PM,RSC Anderlecht,Celtic FC,Lotto Park,0,3,0,19898
+mt511,2017-2018,18-OCT-17 07.45.00.000000000 PM,RSC Anderlecht,Paris Saint-Germain,Lotto Park,0,4,0,19108
+mt512,2017-2018,18-OCT-17 07.45.00.000000000 PM,Bayern München,Celtic FC,Allianz Arena,3,0,0,70000
+mt513,2017-2018,31-OCT-17 07.45.00.000000000 PM,Paris Saint-Germain,RSC Anderlecht,Parc des Princes,5,0,0,46403
+mt514,2017-2018,31-OCT-17 07.45.00.000000000 PM,Celtic FC,Bayern München,Celtic Park,1,2,0,58269
+mt515,2017-2018,22-NOV-17 07.45.00.000000000 PM,RSC Anderlecht,Bayern München,Lotto Park,1,2,0,19753
+mt516,2017-2018,22-NOV-17 07.45.00.000000000 PM,Paris Saint-Germain,Celtic FC,Parc des Princes,7,1,0,46288
+mt517,2017-2018,05-DEC-17 07.45.00.000000000 PM,Bayern München,Paris Saint-Germain,Allianz Arena,3,1,0,70000
+mt518,2017-2018,05-DEC-17 07.45.00.000000000 PM,Celtic FC,RSC Anderlecht,Celtic Park,0,1,0,57931
+mt519,2017-2018,12-SEP-17 07.45.00.000000000 PM,AS Roma,Atlético Madrid,Olimpico,0,0,0,36064
+mt520,2017-2018,12-SEP-17 07.45.00.000000000 PM,Chelsea FC,Qarabağ FK,Stamford Bridge,6,0,0,41150
+mt521,2017-2018,27-SEP-17 05.00.00.000000000 PM,Qarabağ FK,AS Roma,Baku National Stadium,1,2,0,67200
+mt522,2017-2018,27-SEP-17 07.45.00.000000000 PM,Atlético Madrid,Chelsea FC,Wanda Metropolitano,1,2,0,60643
+mt523,2017-2018,18-OCT-17 05.00.00.000000000 PM,Qarabağ FK,Atlético Madrid,Baku National Stadium,0,0,0,47923
+mt524,2017-2018,18-OCT-17 07.45.00.000000000 PM,Chelsea FC,AS Roma,Stamford Bridge,3,3,0,41105
+mt525,2017-2018,31-OCT-17 07.45.00.000000000 PM,AS Roma,Chelsea FC,Olimpico,3,0,0,55036
+mt526,2017-2018,31-OCT-17 07.45.00.000000000 PM,Atlético Madrid,Qarabağ FK,Wanda Metropolitano,1,1,0,55893
+mt527,2017-2018,22-NOV-17 05.00.00.000000000 PM,Qarabağ FK,Chelsea FC,Baku National Stadium,0,4,0,67100
+mt528,2017-2018,22-NOV-17 07.45.00.000000000 PM,Atlético Madrid,AS Roma,Wanda Metropolitano,2,0,0,56253
+mt529,2017-2018,05-DEC-17 07.45.00.000000000 PM,Chelsea FC,Atlético Madrid,Stamford Bridge,1,1,0,40875
+mt530,2017-2018,05-DEC-17 07.45.00.000000000 PM,AS Roma,Qarabağ FK,Olimpico,1,0,0,34258
+mt531,2017-2018,12-SEP-17 07.45.00.000000000 PM,FC Barcelona,Juventus,Spotify Camp Nou,3,0,0,78656
+mt532,2017-2018,12-SEP-17 07.45.00.000000000 PM,Olympiakos Piraeus,Sporting CP,Georgios Karaiskakis,2,3,0,30168
+mt533,2017-2018,27-SEP-17 07.45.00.000000000 PM,Juventus,Olympiakos Piraeus,Allianz Stadium,2,0,0,33460
+mt534,2017-2018,27-SEP-17 07.45.00.000000000 PM,Sporting CP,FC Barcelona,Estádio José Alvalade,0,1,0,48575
+mt535,2017-2018,18-OCT-17 07.45.00.000000000 PM,FC Barcelona,Olympiakos Piraeus,Spotify Camp Nou,3,1,0,55026
+mt536,2017-2018,18-OCT-17 07.45.00.000000000 PM,Juventus,Sporting CP,Allianz Stadium,2,1,0,36288
+mt537,2017-2018,31-OCT-17 07.45.00.000000000 PM,Olympiakos Piraeus,FC Barcelona,Georgios Karaiskakis,0,0,0,31600
+mt538,2017-2018,31-OCT-17 07.45.00.000000000 PM,Sporting CP,Juventus,Estádio José Alvalade,1,1,0,48442
+mt539,2017-2018,22-NOV-17 07.45.00.000000000 PM,Juventus,FC Barcelona,Allianz Stadium,0,0,0,40876
+mt540,2017-2018,22-NOV-17 07.45.00.000000000 PM,Sporting CP,Olympiakos Piraeus,Estádio José Alvalade,3,1,0,42528
+mt541,2017-2018,05-DEC-17 07.45.00.000000000 PM,FC Barcelona,Sporting CP,Spotify Camp Nou,2,0,0,48336
+mt542,2017-2018,05-DEC-17 07.45.00.000000000 PM,Olympiakos Piraeus,Juventus,Georgios Karaiskakis,0,2,0,29567
+mt543,2017-2018,13-SEP-17 07.45.00.000000000 PM,Liverpool FC,Sevilla FC,Anfield,2,2,0,52332
+mt544,2017-2018,13-SEP-17 07.45.00.000000000 PM,NK Maribor,Spartak Moskva,Ljudski vrt,1,1,0,12566
+mt545,2017-2018,26-SEP-17 07.45.00.000000000 PM,Spartak Moskva,Liverpool FC,Otkrytie Arena,1,1,0,43376
+mt546,2017-2018,26-SEP-17 07.45.00.000000000 PM,Sevilla FC,NK Maribor,Ramón Sánchez Pizjuán,3,0,0,34705
+mt547,2017-2018,17-OCT-17 07.45.00.000000000 PM,Spartak Moskva,Sevilla FC,Otkrytie Arena,5,1,0,44307
+mt548,2017-2018,17-OCT-17 07.45.00.000000000 PM,NK Maribor,Liverpool FC,Ljudski vrt,0,7,0,12506
+mt549,2017-2018,01-NOV-17 07.45.00.000000000 PM,Sevilla FC,Spartak Moskva,Ramón Sánchez Pizjuán,2,1,0,38002
+mt550,2017-2018,01-NOV-17 07.45.00.000000000 PM,Liverpool FC,NK Maribor,Anfield,3,0,0,47957
+mt551,2017-2018,21-NOV-17 05.00.00.000000000 PM,Spartak Moskva,NK Maribor,Otkrytie Arena,1,1,0,42920
+mt552,2017-2018,21-NOV-17 07.45.00.000000000 PM,Sevilla FC,Liverpool FC,Ramón Sánchez Pizjuán,3,3,0,39495
+mt553,2017-2018,06-DEC-17 07.45.00.000000000 PM,Liverpool FC,Spartak Moskva,Anfield,7,0,0,48779
+mt554,2017-2018,06-DEC-17 07.45.00.000000000 PM,NK Maribor,Sevilla FC,Ljudski vrt,1,1,0,11976
+mt555,2017-2018,13-SEP-17 07.45.00.000000000 PM,Shakhtar Donetsk,SSC Napoli,Metalist Stadion,2,1,0,32679
+mt556,2017-2018,13-SEP-17 07.45.00.000000000 PM,Feyenoord,Manchester City,De Kuip,0,4,0,43500
+mt557,2017-2018,26-SEP-17 07.45.00.000000000 PM,Manchester City,Shakhtar Donetsk,Etihad Stadium,2,0,0,45310
+mt558,2017-2018,26-SEP-17 07.45.00.000000000 PM,SSC Napoli,Feyenoord,Diego Maradona,3,1,0,22577
+mt559,2017-2018,17-OCT-17 07.45.00.000000000 PM,Manchester City,SSC Napoli,Etihad Stadium,2,1,0,48520
+mt560,2017-2018,17-OCT-17 07.45.00.000000000 PM,Feyenoord,Shakhtar Donetsk,De Kuip,1,2,0,43500
+mt561,2017-2018,01-NOV-17 07.45.00.000000000 PM,SSC Napoli,Manchester City,Diego Maradona,2,4,0,44483
+mt562,2017-2018,01-NOV-17 07.45.00.000000000 PM,Shakhtar Donetsk,Feyenoord,Metalist Stadion,3,1,0,24570
+mt563,2017-2018,21-NOV-17 07.45.00.000000000 PM,SSC Napoli,Shakhtar Donetsk,Diego Maradona,3,0,0,10573
+mt564,2017-2018,21-NOV-17 07.45.00.000000000 PM,Manchester City,Feyenoord,Etihad Stadium,1,0,0,43548
+mt565,2017-2018,06-DEC-17 07.45.00.000000000 PM,Shakhtar Donetsk,Manchester City,Metalist Stadion,2,1,0,33154
+mt566,2017-2018,06-DEC-17 07.45.00.000000000 PM,Feyenoord,SSC Napoli,De Kuip,2,1,0,36500
+mt567,2017-2018,13-SEP-17 07.45.00.000000000 PM,FC Porto,Beşiktaş,Estádio do Dragão,1,3,0,42429
+mt568,2017-2018,13-SEP-17 07.45.00.000000000 PM,RB Leipzig,AS Monaco,Red Bull Arena,1,1,0,40068
+mt569,2017-2018,26-SEP-17 07.45.00.000000000 PM,AS Monaco,FC Porto,Stade Louis II,0,3,0,11703
+mt570,2017-2018,26-SEP-17 07.45.00.000000000 PM,Beşiktaş,RB Leipzig,Vodafone Park,2,0,0,36641
+mt571,2017-2018,17-OCT-17 07.45.00.000000000 PM,AS Monaco,Beşiktaş,Stade Louis II,1,2,0,7403
+mt572,2017-2018,17-OCT-17 07.45.00.000000000 PM,RB Leipzig,FC Porto,Red Bull Arena,3,2,0,41496
+mt573,2017-2018,01-NOV-17 05.00.00.000000000 PM,Beşiktaş,AS Monaco,Vodafone Park,1,1,0,39346
+mt574,2017-2018,01-NOV-17 07.45.00.000000000 PM,FC Porto,RB Leipzig,Estádio do Dragão,3,1,0,41616
+mt575,2017-2018,21-NOV-17 05.00.00.000000000 PM,Beşiktaş,FC Porto,Vodafone Park,1,1,0,36919
+mt576,2017-2018,21-NOV-17 07.45.00.000000000 PM,AS Monaco,RB Leipzig,Stade Louis II,1,4,0,9029
+mt577,2017-2018,06-DEC-17 07.45.00.000000000 PM,FC Porto,AS Monaco,Estádio do Dragão,5,2,0,42509
+mt578,2017-2018,06-DEC-17 07.45.00.000000000 PM,RB Leipzig,Beşiktaş,Red Bull Arena,1,2,0,42558
+mt579,2017-2018,13-SEP-17 07.45.00.000000000 PM,Tottenham Hotspur,Borussia Dortmund,Wembley Stadium,3,1,0,67343
+mt580,2017-2018,13-SEP-17 07.45.00.000000000 PM,Real Madrid,APOEL Nikosia,Santiago Bernabéu,3,0,0,71060
+mt581,2017-2018,26-SEP-17 07.45.00.000000000 PM,Borussia Dortmund,Real Madrid,Signal Iduna Park,1,3,0,65849
+mt582,2017-2018,26-SEP-17 07.45.00.000000000 PM,APOEL Nikosia,Tottenham Hotspur,Neo GSP Stadium,0,3,0,16324
+mt583,2017-2018,17-OCT-17 07.45.00.000000000 PM,Real Madrid,Tottenham Hotspur,Santiago Bernabéu,1,1,0,76589
+mt584,2017-2018,17-OCT-17 07.45.00.000000000 PM,APOEL Nikosia,Borussia Dortmund,Neo GSP Stadium,1,1,0,15604
+mt585,2017-2018,01-NOV-17 07.45.00.000000000 PM,Tottenham Hotspur,Real Madrid,Wembley Stadium,3,1,0,83782
+mt586,2017-2018,01-NOV-17 07.45.00.000000000 PM,Borussia Dortmund,APOEL Nikosia,Signal Iduna Park,1,1,0,64509
+mt587,2017-2018,21-NOV-17 07.45.00.000000000 PM,Borussia Dortmund,Tottenham Hotspur,Signal Iduna Park,1,2,0,65849
+mt588,2017-2018,21-NOV-17 07.45.00.000000000 PM,APOEL Nikosia,Real Madrid,Neo GSP Stadium,0,6,0,19705
+mt589,2017-2018,06-DEC-17 07.45.00.000000000 PM,Real Madrid,Borussia Dortmund,Santiago Bernabéu,3,2,0,73323
+mt590,2017-2018,06-DEC-17 07.45.00.000000000 PM,Tottenham Hotspur,APOEL Nikosia,Wembley Stadium,3,0,0,42679
+mt591,2017-2018,13-FEB-18 07.45.00.000000000 PM,Juventus,Tottenham Hotspur,Allianz Stadium,2,2,0,41232
+mt592,2017-2018,13-FEB-18 07.45.00.000000000 PM,FC Basel,Manchester City,St. Jakob-Park,0,4,0,36000
+mt593,2017-2018,14-FEB-18 07.45.00.000000000 PM,FC Porto,Liverpool FC,Estádio do Dragão,0,5,0,47718
+mt594,2017-2018,14-FEB-18 07.45.00.000000000 PM,Real Madrid,Paris Saint-Germain,Santiago Bernabéu,3,1,0,78158
+mt595,2017-2018,20-FEB-18 07.45.00.000000000 PM,Chelsea FC,FC Barcelona,Stamford Bridge,1,1,0,37741
+mt596,2017-2018,20-FEB-18 07.45.00.000000000 PM,Bayern München,Beşiktaş,Allianz Arena,5,0,0,70000
+mt597,2017-2018,21-FEB-18 07.45.00.000000000 PM,Sevilla FC,Manchester United,Ramón Sánchez Pizjuán,0,0,0,39725
+mt598,2017-2018,21-FEB-18 07.45.00.000000000 PM,Shakhtar Donetsk,AS Roma,Metalist Stadion,2,1,0,35124
+mt599,2017-2018,06-MAR-18 07.45.00.000000000 PM,Liverpool FC,FC Porto,Anfield,0,0,0,48768
+mt600,2017-2018,06-MAR-18 07.45.00.000000000 PM,Paris Saint-Germain,Real Madrid,Parc des Princes,1,2,0,46585
+mt601,2017-2018,07-MAR-18 07.45.00.000000000 PM,Tottenham Hotspur,Juventus,Wembley Stadium,1,2,0,84010
+mt602,2017-2018,07-MAR-18 07.45.00.000000000 PM,Manchester City,FC Basel,Etihad Stadium,1,2,0,49411
+mt603,2017-2018,13-MAR-18 07.45.00.000000000 PM,Manchester United,Sevilla FC,Old Trafford,1,2,0,74909
+mt604,2017-2018,13-MAR-18 07.45.00.000000000 PM,AS Roma,Shakhtar Donetsk,Olimpico,1,0,0,47693
+mt605,2017-2018,14-MAR-18 05.00.00.000000000 PM,Beşiktaş,Bayern München,Vodafone Park,1,3,0,36885
+mt606,2017-2018,14-MAR-18 07.45.00.000000000 PM,FC Barcelona,Chelsea FC,Spotify Camp Nou,3,0,0,97183
+mt607,2017-2018,03-APR-18 07.45.00.000000000 PM,Sevilla FC,Bayern München,Ramón Sánchez Pizjuán,1,2,0,40635
+mt608,2017-2018,03-APR-18 07.45.00.000000000 PM,Juventus,Real Madrid,Allianz Stadium,0,3,0,40849
+mt609,2017-2018,04-APR-18 07.45.00.000000000 PM,FC Barcelona,AS Roma,Spotify Camp Nou,4,1,0,90106
+mt610,2017-2018,04-APR-18 07.45.00.000000000 PM,Liverpool FC,Manchester City,Anfield,3,0,0,50685
+mt611,2017-2018,10-APR-18 07.45.00.000000000 PM,AS Roma,FC Barcelona,Olimpico,3,0,0,56580
+mt612,2017-2018,10-APR-18 07.45.00.000000000 PM,Manchester City,Liverpool FC,Etihad Stadium,1,2,0,53461
+mt613,2017-2018,11-APR-18 07.45.00.000000000 PM,Bayern München,Sevilla FC,Allianz Arena,0,0,0,70000
+mt614,2017-2018,11-APR-18 07.45.00.000000000 PM,Real Madrid,Juventus,Santiago Bernabéu,1,3,0,75796
+mt615,2017-2018,24-APR-18 07.45.00.000000000 PM,Liverpool FC,AS Roma,Anfield,5,2,0,51236
+mt616,2017-2018,25-APR-18 07.45.00.000000000 PM,Bayern München,Real Madrid,Allianz Arena,1,2,0,70000
+mt617,2017-2018,01-MAY-18 07.45.00.000000000 PM,Real Madrid,Bayern München,Santiago Bernabéu,2,2,0,77459
+mt618,2017-2018,02-MAY-18 07.45.00.000000000 PM,AS Roma,Liverpool FC,Olimpico,4,2,0,61889
+mt619,2017-2018,26-MAY-18 07.45.00.000000000 PM,Real Madrid,Liverpool FC,Olimpiyskyi,3,1,0,61561

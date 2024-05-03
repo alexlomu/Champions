@@ -1,0 +1,126 @@
+MATCH_ID,SEASON,DATE_TIME,HOME_TEAM,AWAY_TEAM,STADIUM,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,PENALTY_SHOOT_OUT,ATTENDANCE
+mt1,2021-2022,15-SEP-21 08.00.00.000000000 PM,Manchester City,RB Leipzig,Etihad Stadium,6,3,0,38062
+mt2,2021-2022,15-SEP-21 08.00.00.000000000 PM,Club Brugge KV,Paris Saint-Germain,Jan Breydel Stadion,1,1,0,27546
+mt3,2021-2022,28-SEP-21 08.00.00.000000000 PM,Paris Saint-Germain,Manchester City,Parc des Princes,2,0,0,37350
+mt4,2021-2022,28-SEP-21 08.00.00.000000000 PM,RB Leipzig,Club Brugge KV,Red Bull Arena,1,2,0,23500
+mt5,2021-2022,19-OCT-21 05.45.00.000000000 PM,Club Brugge KV,Manchester City,Jan Breydel Stadion,1,5,0,24915
+mt6,2021-2022,19-OCT-21 08.00.00.000000000 PM,Paris Saint-Germain,RB Leipzig,Parc des Princes,3,2,0,47359
+mt7,2021-2022,03-NOV-21 08.00.00.000000000 PM,RB Leipzig,Paris Saint-Germain,Red Bull Arena,2,2,0,39794
+mt8,2021-2022,03-NOV-21 08.00.00.000000000 PM,Manchester City,Club Brugge KV,Etihad Stadium,4,1,0,50228
+mt9,2021-2022,24-NOV-21 08.00.00.000000000 PM,Manchester City,Paris Saint-Germain,Etihad Stadium,2,1,0,52030
+mt10,2021-2022,24-NOV-21 08.00.00.000000000 PM,Club Brugge KV,RB Leipzig,Jan Breydel Stadion,0,5,0,24072
+mt11,2021-2022,07-DEC-21 05.45.00.000000000 PM,RB Leipzig,Manchester City,Red Bull Arena,2,1,0,0
+mt12,2021-2022,07-DEC-21 05.45.00.000000000 PM,Paris Saint-Germain,Club Brugge KV,Parc des Princes,4,1,0,47492
+mt13,2021-2022,15-SEP-21 08.00.00.000000000 PM,Atlético Madrid,FC Porto,Wanda Metropolitano,0,0,0,40098
+mt14,2021-2022,15-SEP-21 08.00.00.000000000 PM,Liverpool FC,AC Milan,Anfield,3,2,0,51445
+mt15,2021-2022,28-SEP-21 08.00.00.000000000 PM,FC Porto,Liverpool FC,Estádio do Dragão,1,5,0,23520
+mt16,2021-2022,28-SEP-21 08.00.00.000000000 PM,AC Milan,Atlético Madrid,Giuseppe Meazza,1,2,0,35374
+mt17,2021-2022,19-OCT-21 08.00.00.000000000 PM,Atlético Madrid,Liverpool FC,Wanda Metropolitano,2,3,0,60725
+mt18,2021-2022,19-OCT-21 08.00.00.000000000 PM,FC Porto,AC Milan,Estádio do Dragão,1,0,0,32130
+mt19,2021-2022,03-NOV-21 05.45.00.000000000 PM,AC Milan,FC Porto,Giuseppe Meazza,1,1,0,39675
+mt20,2021-2022,03-NOV-21 08.00.00.000000000 PM,Liverpool FC,Atlético Madrid,Anfield,2,0,0,51347
+mt21,2021-2022,24-NOV-21 08.00.00.000000000 PM,Liverpool FC,FC Porto,Anfield,2,0,0,52209
+mt22,2021-2022,24-NOV-21 08.00.00.000000000 PM,Atlético Madrid,AC Milan,Wanda Metropolitano,0,1,0,61019
+mt23,2021-2022,07-DEC-21 08.00.00.000000000 PM,FC Porto,Atlético Madrid,Estádio do Dragão,1,3,0,38830
+mt24,2021-2022,07-DEC-21 08.00.00.000000000 PM,AC Milan,Liverpool FC,Giuseppe Meazza,1,2,0,56237
+mt25,2021-2022,15-SEP-21 05.45.00.000000000 PM,Beşiktaş,Borussia Dortmund,Vodafone Park,1,2,0,22445
+mt26,2021-2022,15-SEP-21 08.00.00.000000000 PM,Sporting CP,AFC Ajax,Estádio José Alvalade,1,5,0,20382
+mt27,2021-2022,28-SEP-21 05.45.00.000000000 PM,AFC Ajax,Beşiktaş,Johan Cruijff ArenA,2,0,0,52628
+mt28,2021-2022,28-SEP-21 08.00.00.000000000 PM,Borussia Dortmund,Sporting CP,Signal Iduna Park,1,0,0,25000
+mt29,2021-2022,19-OCT-21 05.45.00.000000000 PM,Beşiktaş,Sporting CP,Vodafone Park,1,4,0,22936
+mt30,2021-2022,19-OCT-21 08.00.00.000000000 PM,AFC Ajax,Borussia Dortmund,Johan Cruijff ArenA,4,0,0,54029
+mt31,2021-2022,03-NOV-21 08.00.00.000000000 PM,Borussia Dortmund,AFC Ajax,Signal Iduna Park,1,3,0,54820
+mt32,2021-2022,03-NOV-21 08.00.00.000000000 PM,Sporting CP,Beşiktaş,Estádio José Alvalade,4,0,0,40835
+mt33,2021-2022,24-NOV-21 05.45.00.000000000 PM,Beşiktaş,AFC Ajax,Vodafone Park,1,2,0,11712
+mt34,2021-2022,24-NOV-21 08.00.00.000000000 PM,Sporting CP,Borussia Dortmund,Estádio José Alvalade,3,1,0,41341
+mt35,2021-2022,07-DEC-21 08.00.00.000000000 PM,AFC Ajax,Sporting CP,Johan Cruijff ArenA,4,2,0,0
+mt36,2021-2022,07-DEC-21 08.00.00.000000000 PM,Borussia Dortmund,Beşiktaş,Signal Iduna Park,5,0,0,15000
+mt37,2021-2022,15-SEP-21 05.45.00.000000000 PM,FC Sheriff,Shakhtar Donetsk,Sheriff Stadium,2,0,0,5205
+mt38,2021-2022,15-SEP-21 08.00.00.000000000 PM,Inter,Real Madrid,Giuseppe Meazza,0,1,0,37082
+mt39,2021-2022,28-SEP-21 05.45.00.000000000 PM,Shakhtar Donetsk,Inter,Olimpiyskyi,0,0,0,26170
+mt40,2021-2022,28-SEP-21 08.00.00.000000000 PM,Real Madrid,FC Sheriff,Santiago Bernabéu,1,2,0,24522
+mt41,2021-2022,19-OCT-21 08.00.00.000000000 PM,Shakhtar Donetsk,Real Madrid,Olimpiyskyi,0,5,0,34037
+mt42,2021-2022,19-OCT-21 08.00.00.000000000 PM,Inter,FC Sheriff,Giuseppe Meazza,3,1,0,43305
+mt43,2021-2022,03-NOV-21 05.45.00.000000000 PM,Real Madrid,Shakhtar Donetsk,Santiago Bernabéu,2,1,0,38105
+mt44,2021-2022,03-NOV-21 08.00.00.000000000 PM,FC Sheriff,Inter,Sheriff Stadium,1,3,0,5930
+mt45,2021-2022,24-NOV-21 05.45.00.000000000 PM,Inter,Shakhtar Donetsk,Giuseppe Meazza,2,0,0,46225
+mt46,2021-2022,24-NOV-21 08.00.00.000000000 PM,FC Sheriff,Real Madrid,Sheriff Stadium,0,3,0,5932
+mt47,2021-2022,07-DEC-21 08.00.00.000000000 PM,Real Madrid,Inter,Santiago Bernabéu,2,0,0,46887
+mt48,2021-2022,07-DEC-21 08.00.00.000000000 PM,Shakhtar Donetsk,FC Sheriff,Olimpiyskyi,1,1,0,6841
+mt49,2021-2022,14-SEP-21 08.00.00.000000000 PM,FC Barcelona,Bayern München,Spotify Camp Nou,0,3,0,39737
+mt50,2021-2022,14-SEP-21 08.00.00.000000000 PM,Dinamo Kiev,SL Benfica,Olimpiyskyi,0,0,0,21657
+mt51,2021-2022,29-SEP-21 08.00.00.000000000 PM,SL Benfica,FC Barcelona,Estádio da Luz,3,0,0,29454
+mt52,2021-2022,29-SEP-21 08.00.00.000000000 PM,Bayern München,Dinamo Kiev,Allianz Arena,5,0,0,25000
+mt53,2021-2022,20-OCT-21 05.45.00.000000000 PM,FC Barcelona,Dinamo Kiev,Spotify Camp Nou,1,0,0,45968
+mt54,2021-2022,20-OCT-21 08.00.00.000000000 PM,SL Benfica,Bayern München,Estádio da Luz,0,4,0,50000
+mt55,2021-2022,02-NOV-21 08.00.00.000000000 PM,Bayern München,SL Benfica,Allianz Arena,5,2,0,50000
+mt56,2021-2022,02-NOV-21 08.00.00.000000000 PM,Dinamo Kiev,FC Barcelona,Olimpiyskyi,0,1,0,31378
+mt57,2021-2022,23-NOV-21 05.45.00.000000000 PM,Dinamo Kiev,Bayern München,Olimpiyskyi,1,2,0,28732
+mt58,2021-2022,23-NOV-21 08.00.00.000000000 PM,FC Barcelona,SL Benfica,Spotify Camp Nou,0,0,0,49572
+mt59,2021-2022,08-DEC-21 08.00.00.000000000 PM,Bayern München,FC Barcelona,Allianz Arena,3,0,0,0
+mt60,2021-2022,08-DEC-21 08.00.00.000000000 PM,SL Benfica,Dinamo Kiev,Estádio da Luz,2,0,0,37000
+mt61,2021-2022,14-SEP-21 05.45.00.000000000 PM,BSC Young Boys,Manchester United,Stadion Wankdorf,2,1,0,31120
+mt62,2021-2022,14-SEP-21 08.00.00.000000000 PM,Villarreal CF,Atalanta,Estadio de la Cerámica,2,2,0,12916
+mt63,2021-2022,29-SEP-21 05.45.00.000000000 PM,Atalanta,BSC Young Boys,Gewiss Stadium,1,0,0,8536
+mt64,2021-2022,29-SEP-21 08.00.00.000000000 PM,Manchester United,Villarreal CF,Old Trafford,2,1,0,73130
+mt65,2021-2022,20-OCT-21 08.00.00.000000000 PM,Manchester United,Atalanta,Old Trafford,3,2,0,72279
+mt66,2021-2022,20-OCT-21 08.00.00.000000000 PM,BSC Young Boys,Villarreal CF,Stadion Wankdorf,1,4,0,27398
+mt67,2021-2022,02-NOV-21 08.00.00.000000000 PM,Atalanta,Manchester United,Gewiss Stadium,2,2,0,14443
+mt68,2021-2022,02-NOV-21 08.00.00.000000000 PM,Villarreal CF,BSC Young Boys,Estadio de la Cerámica,2,0,0,14890
+mt69,2021-2022,23-NOV-21 05.45.00.000000000 PM,Villarreal CF,Manchester United,Estadio de la Cerámica,0,2,0,20875
+mt70,2021-2022,23-NOV-21 08.00.00.000000000 PM,BSC Young Boys,Atalanta,Stadion Wankdorf,3,3,0,31120
+mt71,2021-2022,08-DEC-21 08.00.00.000000000 PM,Manchester United,BSC Young Boys,Old Trafford,1,1,0,73156
+mt72,2021-2022,09-DEC-21 06.00.00.000000000 PM,Atalanta,Villarreal CF,Gewiss Stadium,2,3,0,11690
+mt73,2021-2022,14-SEP-21 05.45.00.000000000 PM,Sevilla FC,RB Salzburg,Ramón Sánchez Pizjuán,1,1,0,18373
+mt74,2021-2022,14-SEP-21 08.00.00.000000000 PM,Lille OSC,VfL Wolfsburg,Stade Pierre Mauroy,0,0,0,34314
+mt75,2021-2022,29-SEP-21 08.00.00.000000000 PM,RB Salzburg,Lille OSC,Red Bull Arena,2,1,0,24207
+mt76,2021-2022,29-SEP-21 08.00.00.000000000 PM,VfL Wolfsburg,Sevilla FC,Volkswagen Arena,1,1,0,11733
+mt77,2021-2022,20-OCT-21 05.45.00.000000000 PM,RB Salzburg,VfL Wolfsburg,Red Bull Arena,3,1,0,27500
+mt78,2021-2022,20-OCT-21 08.00.00.000000000 PM,Lille OSC,Sevilla FC,Stade Pierre Mauroy,0,0,0,34362
+mt79,2021-2022,02-NOV-21 05.45.00.000000000 PM,VfL Wolfsburg,RB Salzburg,Volkswagen Arena,2,1,0,16112
+mt80,2021-2022,02-NOV-21 08.00.00.000000000 PM,Sevilla FC,Lille OSC,Ramón Sánchez Pizjuán,1,2,0,29369
+mt81,2021-2022,23-NOV-21 08.00.00.000000000 PM,Lille OSC,RB Salzburg,Stade Pierre Mauroy,1,0,0,33573
+mt82,2021-2022,23-NOV-21 08.00.00.000000000 PM,Sevilla FC,VfL Wolfsburg,Ramón Sánchez Pizjuán,2,0,0,28663
+mt83,2021-2022,08-DEC-21 08.00.00.000000000 PM,RB Salzburg,Sevilla FC,Red Bull Arena,1,0,0,0
+mt84,2021-2022,08-DEC-21 08.00.00.000000000 PM,VfL Wolfsburg,Lille OSC,Volkswagen Arena,1,3,0,6544
+mt85,2021-2022,14-SEP-21 08.00.00.000000000 PM,Chelsea FC,Zenit St. Petersburg,Stamford Bridge,1,0,0,39252
+mt86,2021-2022,14-SEP-21 08.00.00.000000000 PM,Malmö FF,Juventus,Nya Malmö Stadion,0,3,0,5832
+mt87,2021-2022,29-SEP-21 05.45.00.000000000 PM,Zenit St. Petersburg,Malmö FF,Gazprom Arena,4,0,0,15339
+mt88,2021-2022,29-SEP-21 08.00.00.000000000 PM,Juventus,Chelsea FC,Allianz Stadium,1,0,0,19934
+mt89,2021-2022,20-OCT-21 08.00.00.000000000 PM,Zenit St. Petersburg,Juventus,Gazprom Arena,0,1,0,18717
+mt90,2021-2022,20-OCT-21 08.00.00.000000000 PM,Chelsea FC,Malmö FF,Stamford Bridge,4,0,0,39095
+mt91,2021-2022,02-NOV-21 05.45.00.000000000 PM,Malmö FF,Chelsea FC,Nya Malmö Stadion,0,1,0,19551
+mt92,2021-2022,02-NOV-21 08.00.00.000000000 PM,Juventus,Zenit St. Petersburg,Allianz Stadium,4,2,0,20053
+mt93,2021-2022,23-NOV-21 08.00.00.000000000 PM,Chelsea FC,Juventus,Stamford Bridge,4,0,0,39513
+mt94,2021-2022,23-NOV-21 08.00.00.000000000 PM,Malmö FF,Zenit St. Petersburg,Nya Malmö Stadion,1,1,0,19551
+mt95,2021-2022,08-DEC-21 05.45.00.000000000 PM,Zenit St. Petersburg,Chelsea FC,Gazprom Arena,3,3,0,29349
+mt96,2021-2022,08-DEC-21 05.45.00.000000000 PM,Juventus,Malmö FF,Allianz Stadium,1,0,0,17501
+mt97,2021-2022,15-FEB-22 08.00.00.000000000 PM,Sporting CP,Manchester City,Estádio José Alvalade,0,5,0,48129
+mt98,2021-2022,15-FEB-22 08.00.00.000000000 PM,Paris Saint-Germain,Real Madrid,Parc des Princes,1,0,0,47443
+mt99,2021-2022,16-FEB-22 08.00.00.000000000 PM,RB Salzburg,Bayern München,Red Bull Arena,1,1,0,29520
+mt100,2021-2022,16-FEB-22 08.00.00.000000000 PM,Inter,Liverpool FC,Giuseppe Meazza,0,2,0,37918
+mt101,2021-2022,22-FEB-22 08.00.00.000000000 PM,Chelsea FC,Lille OSC,Stamford Bridge,2,0,0,38832
+mt102,2021-2022,22-FEB-22 08.00.00.000000000 PM,Villarreal CF,Juventus,Estadio de la Cerámica,1,1,0,17686
+mt103,2021-2022,23-FEB-22 08.00.00.000000000 PM,SL Benfica,AFC Ajax,Estádio da Luz,2,2,0,54760
+mt104,2021-2022,23-FEB-22 08.00.00.000000000 PM,Atlético Madrid,Manchester United,Wanda Metropolitano,1,1,0,63273
+mt105,2021-2022,08-MAR-22 08.00.00.000000000 PM,Bayern München,RB Salzburg,Allianz Arena,7,1,0,25000
+mt106,2021-2022,08-MAR-22 08.00.00.000000000 PM,Liverpool FC,Inter,Anfield,0,1,0,51747
+mt107,2021-2022,09-MAR-22 08.00.00.000000000 PM,Manchester City,Sporting CP,Etihad Stadium,0,0,0,51213
+mt108,2021-2022,09-MAR-22 08.00.00.000000000 PM,Real Madrid,Paris Saint-Germain,Santiago Bernabéu,3,1,0,59895
+mt109,2021-2022,15-MAR-22 08.00.00.000000000 PM,AFC Ajax,SL Benfica,Johan Cruijff ArenA,0,1,0,54066
+mt110,2021-2022,15-MAR-22 08.00.00.000000000 PM,Manchester United,Atlético Madrid,Old Trafford,0,1,0,73008
+mt111,2021-2022,16-MAR-22 08.00.00.000000000 PM,Lille OSC,Chelsea FC,Stade Pierre Mauroy,1,2,0,49048
+mt112,2021-2022,16-MAR-22 08.00.00.000000000 PM,Juventus,Villarreal CF,Allianz Stadium,0,3,0,30385
+mt113,2021-2022,05-APR-22 08.00.00.000000000 PM,Manchester City,Atlético Madrid,Etihad Stadium,1,0,0,52018
+mt114,2021-2022,05-APR-22 08.00.00.000000000 PM,SL Benfica,Liverpool FC,Estádio da Luz,1,3,0,59633
+mt115,2021-2022,06-APR-22 08.00.00.000000000 PM,Chelsea FC,Real Madrid,Stamford Bridge,1,3,0,38689
+mt116,2021-2022,06-APR-22 08.00.00.000000000 PM,Villarreal CF,Bayern München,Estadio de la Cerámica,1,0,0,21626
+mt117,2021-2022,12-APR-22 08.00.00.000000000 PM,Real Madrid,Chelsea FC,Santiago Bernabéu,2,3,0,59839
+mt118,2021-2022,12-APR-22 08.00.00.000000000 PM,Bayern München,Villarreal CF,Allianz Arena,1,1,0,70000
+mt119,2021-2022,13-APR-22 08.00.00.000000000 PM,Atlético Madrid,Manchester City,Wanda Metropolitano,0,0,0,65675
+mt120,2021-2022,13-APR-22 08.00.00.000000000 PM,Liverpool FC,SL Benfica,Anfield,3,3,0,51373
+mt121,2021-2022,26-APR-22 08.00.00.000000000 PM,Manchester City,Real Madrid,Etihad Stadium,4,3,0,55097
+mt122,2021-2022,27-APR-22 08.00.00.000000000 PM,Liverpool FC,Villarreal CF,Anfield,2,0,0,51586
+mt123,2021-2022,03-MAY-22 08.00.00.000000000 PM,Villarreal CF,Liverpool FC,Estadio de la Cerámica,2,3,0,23665
+mt124,2021-2022,04-MAY-22 08.00.00.000000000 PM,Real Madrid,Manchester City,Santiago Bernabéu,3,1,0,61416
+mt125,2021-2022,28-MAY-22 08.35.00.000000000 PM,Liverpool FC,Real Madrid,Stade de France,0,1,0,0

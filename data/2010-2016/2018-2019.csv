@@ -1,0 +1,126 @@
+MATCH_ID,SEASON,DATE_TIME,HOME_TEAM,AWAY_TEAM,STADIUM,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,PENALTY_SHOOT_OUT,ATTENDANCE
+mt370,2018-2019,18-SEP-18 08.00.00.000000000 PM,AS Monaco,Atlético Madrid,Stade Louis II,1,2,0,10575
+mt371,2018-2019,18-SEP-18 08.00.00.000000000 PM,Club Brugge KV,Borussia Dortmund,Jan Breydel Stadion,0,1,0,25181
+mt372,2018-2019,03-OCT-18 08.00.00.000000000 PM,Borussia Dortmund,AS Monaco,Signal Iduna Park,3,0,0,66099
+mt373,2018-2019,03-OCT-18 08.00.00.000000000 PM,Atlético Madrid,Club Brugge KV,Wanda Metropolitano,3,1,0,55742
+mt374,2018-2019,24-OCT-18 05.55.00.000000000 PM,Club Brugge KV,AS Monaco,Jan Breydel Stadion,1,1,0,23957
+mt375,2018-2019,24-OCT-18 08.00.00.000000000 PM,Borussia Dortmund,Atlético Madrid,Signal Iduna Park,4,0,0,66099
+mt376,2018-2019,06-NOV-18 05.55.00.000000000 PM,AS Monaco,Club Brugge KV,Stade Louis II,0,4,0,8347
+mt377,2018-2019,06-NOV-18 08.00.00.000000000 PM,Atlético Madrid,Borussia Dortmund,Wanda Metropolitano,2,0,0,61023
+mt378,2018-2019,28-NOV-18 05.55.00.000000000 PM,Atlético Madrid,AS Monaco,Wanda Metropolitano,2,0,0,56314
+mt379,2018-2019,28-NOV-18 08.00.00.000000000 PM,Borussia Dortmund,Club Brugge KV,Signal Iduna Park,0,0,0,66099
+mt380,2018-2019,11-DEC-18 08.00.00.000000000 PM,AS Monaco,Borussia Dortmund,Stade Louis II,0,2,0,8731
+mt381,2018-2019,11-DEC-18 08.00.00.000000000 PM,Club Brugge KV,Atlético Madrid,Jan Breydel Stadion,0,0,0,25645
+mt382,2018-2019,18-SEP-18 05.55.00.000000000 PM,FC Barcelona,PSV Eindhoven,Spotify Camp Nou,4,0,0,73462
+mt383,2018-2019,18-SEP-18 05.55.00.000000000 PM,Inter,Tottenham Hotspur,Giuseppe Meazza,2,1,0,64123
+mt384,2018-2019,03-OCT-18 08.00.00.000000000 PM,Tottenham Hotspur,FC Barcelona,Wembley Stadium,2,4,0,82137
+mt385,2018-2019,03-OCT-18 08.00.00.000000000 PM,PSV Eindhoven,Inter,Philips Stadion,1,2,0,34750
+mt386,2018-2019,24-OCT-18 05.55.00.000000000 PM,PSV Eindhoven,Tottenham Hotspur,Philips Stadion,2,2,0,35000
+mt387,2018-2019,24-OCT-18 08.00.00.000000000 PM,FC Barcelona,Inter,Spotify Camp Nou,2,0,0,86290
+mt388,2018-2019,06-NOV-18 08.00.00.000000000 PM,Tottenham Hotspur,PSV Eindhoven,Wembley Stadium,2,1,0,46588
+mt389,2018-2019,06-NOV-18 08.00.00.000000000 PM,Inter,FC Barcelona,Giuseppe Meazza,1,1,0,70915
+mt390,2018-2019,28-NOV-18 08.00.00.000000000 PM,PSV Eindhoven,FC Barcelona,Philips Stadion,1,2,0,34600
+mt391,2018-2019,28-NOV-18 08.00.00.000000000 PM,Tottenham Hotspur,Inter,Wembley Stadium,1,0,0,57132
+mt392,2018-2019,11-DEC-18 08.00.00.000000000 PM,FC Barcelona,Tottenham Hotspur,Spotify Camp Nou,1,1,0,69961
+mt393,2018-2019,11-DEC-18 08.00.00.000000000 PM,Inter,PSV Eindhoven,Giuseppe Meazza,1,1,0,62533
+mt394,2018-2019,18-SEP-18 08.00.00.000000000 PM,Liverpool FC,Paris Saint-Germain,Anfield,3,2,0,52478
+mt395,2018-2019,18-SEP-18 08.00.00.000000000 PM,Crvena Zvezda,SSC Napoli,Marakana,0,0,0,49112
+mt396,2018-2019,03-OCT-18 05.55.00.000000000 PM,Paris Saint-Germain,Crvena Zvezda,Parc des Princes,6,1,0,39979
+mt397,2018-2019,03-OCT-18 08.00.00.000000000 PM,SSC Napoli,Liverpool FC,Diego Maradona,1,0,0,37057
+mt398,2018-2019,24-OCT-18 08.00.00.000000000 PM,Paris Saint-Germain,SSC Napoli,Parc des Princes,2,2,0,46274
+mt399,2018-2019,24-OCT-18 08.00.00.000000000 PM,Liverpool FC,Crvena Zvezda,Anfield,4,0,0,53024
+mt400,2018-2019,06-NOV-18 05.55.00.000000000 PM,Crvena Zvezda,Liverpool FC,Marakana,2,0,0,51318
+mt401,2018-2019,06-NOV-18 08.00.00.000000000 PM,SSC Napoli,Paris Saint-Germain,Diego Maradona,1,1,0,55489
+mt402,2018-2019,28-NOV-18 08.00.00.000000000 PM,Paris Saint-Germain,Liverpool FC,Parc des Princes,2,1,0,46880
+mt403,2018-2019,28-NOV-18 08.00.00.000000000 PM,SSC Napoli,Crvena Zvezda,Diego Maradona,3,1,0,44470
+mt404,2018-2019,11-DEC-18 08.00.00.000000000 PM,Liverpool FC,SSC Napoli,Anfield,1,0,0,52015
+mt405,2018-2019,11-DEC-18 08.00.00.000000000 PM,Crvena Zvezda,Paris Saint-Germain,Marakana,1,4,0,48357
+mt406,2018-2019,18-SEP-18 08.00.00.000000000 PM,FC Schalke 04,FC Porto,Veltins-Arena,1,1,0,45755
+mt407,2018-2019,18-SEP-18 08.00.00.000000000 PM,Galatasaray,Lokomotiv Moskva,Nef Stadyumu,3,0,0,43542
+mt408,2018-2019,03-OCT-18 05.55.00.000000000 PM,Lokomotiv Moskva,FC Schalke 04,RŽD-Arena,0,1,0,21471
+mt409,2018-2019,03-OCT-18 08.00.00.000000000 PM,FC Porto,Galatasaray,Estádio do Dragão,1,0,0,42711
+mt410,2018-2019,24-OCT-18 08.00.00.000000000 PM,Lokomotiv Moskva,FC Porto,RŽD-Arena,1,3,0,16034
+mt411,2018-2019,24-OCT-18 08.00.00.000000000 PM,Galatasaray,FC Schalke 04,Nef Stadyumu,0,0,0,46667
+mt412,2018-2019,06-NOV-18 08.00.00.000000000 PM,FC Porto,Lokomotiv Moskva,Estádio do Dragão,4,1,0,34616
+mt413,2018-2019,06-NOV-18 08.00.00.000000000 PM,FC Schalke 04,Galatasaray,Veltins-Arena,2,0,0,54740
+mt414,2018-2019,28-NOV-18 05.55.00.000000000 PM,Lokomotiv Moskva,Galatasaray,RŽD-Arena,2,0,0,14037
+mt415,2018-2019,28-NOV-18 08.00.00.000000000 PM,FC Porto,FC Schalke 04,Estádio do Dragão,3,1,0,41603
+mt416,2018-2019,11-DEC-18 05.55.00.000000000 PM,FC Schalke 04,Lokomotiv Moskva,Veltins-Arena,1,0,0,48883
+mt417,2018-2019,11-DEC-18 05.55.00.000000000 PM,Galatasaray,FC Porto,Nef Stadyumu,2,3,0,33972
+mt418,2018-2019,19-SEP-18 05.55.00.000000000 PM,AFC Ajax,AEK Athen,Johan Cruijff ArenA,3,0,0,52285
+mt419,2018-2019,19-SEP-18 08.00.00.000000000 PM,SL Benfica,Bayern München,Estádio da Luz,0,2,0,60274
+mt420,2018-2019,02-OCT-18 08.00.00.000000000 PM,Bayern München,AFC Ajax,Allianz Arena,1,1,0,70000
+mt421,2018-2019,02-OCT-18 08.00.00.000000000 PM,AEK Athen,SL Benfica,Spyros Louis (OAKA),2,3,0,31154
+mt422,2018-2019,23-OCT-18 05.55.00.000000000 PM,AEK Athen,Bayern München,Spyros Louis (OAKA),0,2,0,61221
+mt423,2018-2019,23-OCT-18 08.00.00.000000000 PM,AFC Ajax,SL Benfica,Johan Cruijff ArenA,1,0,0,52489
+mt424,2018-2019,07-NOV-18 08.00.00.000000000 PM,SL Benfica,AFC Ajax,Estádio da Luz,1,1,0,51328
+mt425,2018-2019,07-NOV-18 08.00.00.000000000 PM,Bayern München,AEK Athen,Allianz Arena,2,0,0,70000
+mt426,2018-2019,27-NOV-18 05.55.00.000000000 PM,AEK Athen,AFC Ajax,Spyros Louis (OAKA),0,2,0,25756
+mt427,2018-2019,27-NOV-18 08.00.00.000000000 PM,Bayern München,SL Benfica,Allianz Arena,5,1,0,70000
+mt428,2018-2019,12-DEC-18 08.00.00.000000000 PM,AFC Ajax,Bayern München,Johan Cruijff ArenA,3,3,0,52244
+mt429,2018-2019,12-DEC-18 08.00.00.000000000 PM,SL Benfica,AEK Athen,Estádio da Luz,1,0,0,33633
+mt430,2018-2019,19-SEP-18 05.55.00.000000000 PM,Shakhtar Donetsk,1899 Hoffenheim,Metalist Stadion,2,2,0,28336
+mt431,2018-2019,19-SEP-18 08.00.00.000000000 PM,Manchester City,Olympique Lyon,Etihad Stadium,1,2,0,40111
+mt432,2018-2019,02-OCT-18 05.55.00.000000000 PM,1899 Hoffenheim,Manchester City,PreZero Arena,1,2,0,24851
+mt433,2018-2019,02-OCT-18 08.00.00.000000000 PM,Olympique Lyon,Shakhtar Donetsk,Groupama Stadium,2,2,0,0
+mt434,2018-2019,23-OCT-18 08.00.00.000000000 PM,Shakhtar Donetsk,Manchester City,Metalist Stadion,0,3,0,37106
+mt435,2018-2019,23-OCT-18 08.00.00.000000000 PM,1899 Hoffenheim,Olympique Lyon,PreZero Arena,3,3,0,24144
+mt436,2018-2019,07-NOV-18 08.00.00.000000000 PM,Manchester City,Shakhtar Donetsk,Etihad Stadium,6,0,0,52286
+mt437,2018-2019,07-NOV-18 08.00.00.000000000 PM,Olympique Lyon,1899 Hoffenheim,Groupama Stadium,2,2,0,53850
+mt438,2018-2019,27-NOV-18 08.00.00.000000000 PM,Olympique Lyon,Manchester City,Groupama Stadium,2,2,0,56039
+mt439,2018-2019,27-NOV-18 08.00.00.000000000 PM,1899 Hoffenheim,Shakhtar Donetsk,PreZero Arena,2,3,0,22920
+mt440,2018-2019,12-DEC-18 08.00.00.000000000 PM,Shakhtar Donetsk,Olympique Lyon,Olimpiyskyi,1,1,0,38916
+mt441,2018-2019,12-DEC-18 08.00.00.000000000 PM,Manchester City,1899 Hoffenheim,Etihad Stadium,2,1,0,50411
+mt442,2018-2019,19-SEP-18 08.00.00.000000000 PM,Real Madrid,AS Roma,Santiago Bernabéu,3,0,0,69251
+mt443,2018-2019,19-SEP-18 08.00.00.000000000 PM,Viktoria Plzeň,CSKA Moskva,Doosan Arena,2,2,0,11312
+mt444,2018-2019,02-OCT-18 08.00.00.000000000 PM,CSKA Moskva,Real Madrid,Luzhniki,1,0,0,71811
+mt445,2018-2019,02-OCT-18 08.00.00.000000000 PM,AS Roma,Viktoria Plzeň,Olimpico,5,0,0,41243
+mt446,2018-2019,23-OCT-18 08.00.00.000000000 PM,AS Roma,CSKA Moskva,Olimpico,3,0,0,46005
+mt447,2018-2019,23-OCT-18 08.00.00.000000000 PM,Real Madrid,Viktoria Plzeň,Santiago Bernabéu,2,1,0,67356
+mt448,2018-2019,07-NOV-18 05.55.00.000000000 PM,CSKA Moskva,AS Roma,Luzhniki,1,2,0,64454
+mt449,2018-2019,07-NOV-18 08.00.00.000000000 PM,Viktoria Plzeň,Real Madrid,Doosan Arena,0,5,0,11483
+mt450,2018-2019,27-NOV-18 05.55.00.000000000 PM,CSKA Moskva,Viktoria Plzeň,Luzhniki,1,2,0,52892
+mt451,2018-2019,27-NOV-18 08.00.00.000000000 PM,AS Roma,Real Madrid,Olimpico,0,2,0,59124
+mt452,2018-2019,12-DEC-18 05.55.00.000000000 PM,Real Madrid,CSKA Moskva,Santiago Bernabéu,0,3,0,51636
+mt453,2018-2019,12-DEC-18 05.55.00.000000000 PM,Viktoria Plzeň,AS Roma,Doosan Arena,2,1,0,11217
+mt454,2018-2019,19-SEP-18 08.00.00.000000000 PM,Valencia CF,Juventus,Estadio de Mestalla,0,2,0,46067
+mt455,2018-2019,19-SEP-18 08.00.00.000000000 PM,BSC Young Boys,Manchester United,Stadion Wankdorf,0,3,0,31120
+mt456,2018-2019,02-OCT-18 05.55.00.000000000 PM,Juventus,BSC Young Boys,Allianz Stadium,3,0,0,40961
+mt457,2018-2019,02-OCT-18 08.00.00.000000000 PM,Manchester United,Valencia CF,Old Trafford,0,0,0,73569
+mt458,2018-2019,23-OCT-18 05.55.00.000000000 PM,BSC Young Boys,Valencia CF,Stadion Wankdorf,1,1,0,31120
+mt459,2018-2019,23-OCT-18 08.00.00.000000000 PM,Manchester United,Juventus,Old Trafford,0,1,0,73946
+mt460,2018-2019,07-NOV-18 05.55.00.000000000 PM,Valencia CF,BSC Young Boys,Estadio de Mestalla,3,1,0,36480
+mt461,2018-2019,07-NOV-18 08.00.00.000000000 PM,Juventus,Manchester United,Allianz Stadium,1,2,0,41470
+mt462,2018-2019,27-NOV-18 08.00.00.000000000 PM,Juventus,Valencia CF,Allianz Stadium,1,0,0,39070
+mt463,2018-2019,27-NOV-18 08.00.00.000000000 PM,Manchester United,BSC Young Boys,Old Trafford,1,0,0,72876
+mt464,2018-2019,12-DEC-18 08.00.00.000000000 PM,Valencia CF,Manchester United,Estadio de Mestalla,2,1,0,36544
+mt465,2018-2019,12-DEC-18 08.00.00.000000000 PM,BSC Young Boys,Juventus,Stadion Wankdorf,2,1,0,30114
+mt466,2018-2019,12-FEB-19 08.00.00.000000000 PM,Manchester United,Paris Saint-Germain,Old Trafford,0,2,0,74054
+mt467,2018-2019,12-FEB-19 08.00.00.000000000 PM,AS Roma,FC Porto,Olimpico,2,1,0,51727
+mt468,2018-2019,13-FEB-19 08.00.00.000000000 PM,Tottenham Hotspur,Borussia Dortmund,Wembley Stadium,3,0,0,71214
+mt469,2018-2019,13-FEB-19 08.00.00.000000000 PM,AFC Ajax,Real Madrid,Johan Cruijff ArenA,1,2,0,52286
+mt470,2018-2019,19-FEB-19 08.00.00.000000000 PM,Olympique Lyon,FC Barcelona,Groupama Stadium,0,0,0,57889
+mt471,2018-2019,19-FEB-19 08.00.00.000000000 PM,Liverpool FC,Bayern München,Anfield,0,0,0,52250
+mt472,2018-2019,20-FEB-19 08.00.00.000000000 PM,FC Schalke 04,Manchester City,Veltins-Arena,2,3,0,54417
+mt473,2018-2019,20-FEB-19 08.00.00.000000000 PM,Atlético Madrid,Juventus,Wanda Metropolitano,2,0,0,67193
+mt474,2018-2019,05-MAR-19 08.00.00.000000000 PM,Borussia Dortmund,Tottenham Hotspur,Signal Iduna Park,0,1,0,66099
+mt475,2018-2019,05-MAR-19 08.00.00.000000000 PM,Real Madrid,AFC Ajax,Santiago Bernabéu,1,4,0,77013
+mt476,2018-2019,06-MAR-19 08.00.00.000000000 PM,Paris Saint-Germain,Manchester United,Parc des Princes,1,3,0,47441
+mt477,2018-2019,06-MAR-19 08.00.00.000000000 PM,FC Porto,AS Roma,Estádio do Dragão,3,1,0,49029
+mt478,2018-2019,12-MAR-19 08.00.00.000000000 PM,Manchester City,FC Schalke 04,Etihad Stadium,7,0,0,51518
+mt479,2018-2019,12-MAR-19 08.00.00.000000000 PM,Juventus,Atlético Madrid,Allianz Stadium,3,0,0,40884
+mt480,2018-2019,13-MAR-19 08.00.00.000000000 PM,FC Barcelona,Olympique Lyon,Spotify Camp Nou,5,1,0,92346
+mt481,2018-2019,13-MAR-19 08.00.00.000000000 PM,Bayern München,Liverpool FC,Allianz Arena,1,3,0,68145
+mt482,2018-2019,09-APR-19 08.00.00.000000000 PM,Liverpool FC,FC Porto,Anfield,2,0,0,52465
+mt483,2018-2019,09-APR-19 08.00.00.000000000 PM,Tottenham Hotspur,Manchester City,Tottenham Hotspur Stadium,1,0,0,60044
+mt484,2018-2019,10-APR-19 08.00.00.000000000 PM,AFC Ajax,Juventus,Johan Cruijff ArenA,1,1,0,50390
+mt485,2018-2019,10-APR-19 08.00.00.000000000 PM,Manchester United,FC Barcelona,Old Trafford,0,1,0,74093
+mt486,2018-2019,16-APR-19 08.00.00.000000000 PM,Juventus,AFC Ajax,Allianz Stadium,1,2,0,41445
+mt487,2018-2019,16-APR-19 08.00.00.000000000 PM,FC Barcelona,Manchester United,Spotify Camp Nou,3,0,0,96708
+mt488,2018-2019,17-APR-19 08.00.00.000000000 PM,FC Porto,Liverpool FC,Estádio do Dragão,1,4,0,49117
+mt489,2018-2019,17-APR-19 08.00.00.000000000 PM,Manchester City,Tottenham Hotspur,Etihad Stadium,4,3,0,53348
+mt490,2018-2019,30-APR-19 08.00.00.000000000 PM,Tottenham Hotspur,AFC Ajax,Tottenham Hotspur Stadium,0,1,0,60243
+mt491,2018-2019,01-MAY-19 08.00.00.000000000 PM,FC Barcelona,Liverpool FC,Spotify Camp Nou,3,0,0,98299
+mt492,2018-2019,07-MAY-19 08.00.00.000000000 PM,Liverpool FC,FC Barcelona,Anfield,4,0,0,55212
+mt493,2018-2019,08-MAY-19 08.00.00.000000000 PM,AFC Ajax,Tottenham Hotspur,Johan Cruijff ArenA,2,3,0,52641
+mt494,2018-2019,01-JUN-19 08.00.00.000000000 PM,Tottenham Hotspur,Liverpool FC,Wanda Metropolitano,0,2,0,63272

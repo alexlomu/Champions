@@ -1,0 +1,126 @@
+MATCH_ID,SEASON,DATE_TIME,HOME_TEAM,AWAY_TEAM,STADIUM,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,PENALTY_SHOOT_OUT,ATTENDANCE
+mt126,2020-2021,21-OCT-20 05.55.00.000000000 PM,RB Salzburg,Lokomotiv Moskva,Red Bull Arena,2,2,0,3000
+mt127,2020-2021,21-OCT-20 08.00.00.000000000 PM,Bayern München,Atlético Madrid,Allianz Arena,4,0,0,0
+mt128,2020-2021,27-OCT-20 05.55.00.000000000 PM,Lokomotiv Moskva,Bayern München,RŽD-Arena,1,2,0,8196
+mt129,2020-2021,27-OCT-20 08.00.00.000000000 PM,Atlético Madrid,RB Salzburg,Wanda Metropolitano,3,2,0,0
+mt130,2020-2021,03-NOV-20 05.55.00.000000000 PM,Lokomotiv Moskva,Atlético Madrid,RŽD-Arena,1,1,0,8147
+mt131,2020-2021,03-NOV-20 08.00.00.000000000 PM,RB Salzburg,Bayern München,Red Bull Arena,2,6,0,0
+mt132,2020-2021,25-NOV-20 08.00.00.000000000 PM,Atlético Madrid,Lokomotiv Moskva,Wanda Metropolitano,0,0,0,0
+mt133,2020-2021,25-NOV-20 08.00.00.000000000 PM,Bayern München,RB Salzburg,Allianz Arena,3,1,0,0
+mt134,2020-2021,01-DEC-20 05.55.00.000000000 PM,Lokomotiv Moskva,RB Salzburg,RŽD-Arena,1,3,0,6759
+mt135,2020-2021,01-DEC-20 08.00.00.000000000 PM,Atlético Madrid,Bayern München,Wanda Metropolitano,1,1,0,0
+mt136,2020-2021,09-DEC-20 08.00.00.000000000 PM,Bayern München,Lokomotiv Moskva,Allianz Arena,2,0,0,0
+mt137,2020-2021,09-DEC-20 08.00.00.000000000 PM,RB Salzburg,Atlético Madrid,Red Bull Arena,0,2,0,0
+mt138,2020-2021,21-OCT-20 05.55.00.000000000 PM,Real Madrid,Shakhtar Donetsk,Alfredo Di Stéfano,2,3,0,0
+mt139,2020-2021,21-OCT-20 08.00.00.000000000 PM,Inter,Bor. Mönchengladbach,Giuseppe Meazza,2,2,0,1000
+mt140,2020-2021,27-OCT-20 05.55.00.000000000 PM,Shakhtar Donetsk,Inter,Olimpiyskyi,0,0,0,10178
+mt141,2020-2021,27-OCT-20 08.00.00.000000000 PM,Bor. Mönchengladbach,Real Madrid,Borussia-Park,2,2,0,0
+mt142,2020-2021,03-NOV-20 05.55.00.000000000 PM,Shakhtar Donetsk,Bor. Mönchengladbach,Olimpiyskyi,0,6,0,0
+mt143,2020-2021,03-NOV-20 08.00.00.000000000 PM,Real Madrid,Inter,Alfredo Di Stéfano,3,2,0,0
+mt144,2020-2021,25-NOV-20 05.55.00.000000000 PM,Bor. Mönchengladbach,Shakhtar Donetsk,Borussia-Park,4,0,0,0
+mt145,2020-2021,25-NOV-20 08.00.00.000000000 PM,Inter,Real Madrid,Giuseppe Meazza,0,2,0,0
+mt146,2020-2021,01-DEC-20 05.55.00.000000000 PM,Shakhtar Donetsk,Real Madrid,Olimpiyskyi,2,0,0,0
+mt147,2020-2021,01-DEC-20 08.00.00.000000000 PM,Bor. Mönchengladbach,Inter,Borussia-Park,2,3,0,0
+mt148,2020-2021,09-DEC-20 08.00.00.000000000 PM,Inter,Shakhtar Donetsk,Giuseppe Meazza,0,0,0,0
+mt149,2020-2021,09-DEC-20 08.00.00.000000000 PM,Real Madrid,Bor. Mönchengladbach,Alfredo Di Stéfano,2,0,0,0
+mt150,2020-2021,21-OCT-20 08.00.00.000000000 PM,Manchester City,FC Porto,Etihad Stadium,3,1,0,0
+mt151,2020-2021,21-OCT-20 08.00.00.000000000 PM,Olympiakos Piraeus,Olympique Marseille,Georgios Karaiskakis,1,0,0,0
+mt152,2020-2021,27-OCT-20 08.00.00.000000000 PM,FC Porto,Olympiakos Piraeus,Estádio do Dragão,2,0,0,2450
+mt153,2020-2021,27-OCT-20 08.00.00.000000000 PM,Olympique Marseille,Manchester City,Vélodrome,0,3,0,0
+mt154,2020-2021,03-NOV-20 08.00.00.000000000 PM,FC Porto,Olympique Marseille,Estádio do Dragão,3,0,0,0
+mt155,2020-2021,03-NOV-20 08.00.00.000000000 PM,Manchester City,Olympiakos Piraeus,Etihad Stadium,3,0,0,0
+mt156,2020-2021,25-NOV-20 05.55.00.000000000 PM,Olympiakos Piraeus,Manchester City,Georgios Karaiskakis,0,1,0,0
+mt157,2020-2021,25-NOV-20 08.00.00.000000000 PM,Olympique Marseille,FC Porto,Vélodrome,0,2,0,0
+mt158,2020-2021,01-DEC-20 08.00.00.000000000 PM,FC Porto,Manchester City,Estádio do Dragão,0,0,0,0
+mt159,2020-2021,01-DEC-20 08.00.00.000000000 PM,Olympique Marseille,Olympiakos Piraeus,Vélodrome,2,1,0,0
+mt160,2020-2021,09-DEC-20 08.00.00.000000000 PM,Manchester City,Olympique Marseille,Etihad Stadium,3,0,0,1
+mt161,2020-2021,09-DEC-20 08.00.00.000000000 PM,Olympiakos Piraeus,FC Porto,Georgios Karaiskakis,0,2,0,0
+mt162,2020-2021,21-OCT-20 08.00.00.000000000 PM,AFC Ajax,Liverpool FC,Johan Cruijff ArenA,0,1,0,0
+mt163,2020-2021,21-OCT-20 08.00.00.000000000 PM,FC Midtjylland,Atalanta,MCH Arena,0,4,0,132
+mt164,2020-2021,27-OCT-20 08.00.00.000000000 PM,Atalanta,AFC Ajax,Gewiss Stadium,2,2,0,0
+mt165,2020-2021,27-OCT-20 08.00.00.000000000 PM,Liverpool FC,FC Midtjylland,Anfield,2,0,0,0
+mt166,2020-2021,03-NOV-20 08.00.00.000000000 PM,Atalanta,Liverpool FC,Gewiss Stadium,0,5,0,0
+mt167,2020-2021,03-NOV-20 08.00.00.000000000 PM,FC Midtjylland,AFC Ajax,MCH Arena,1,2,0,132
+mt168,2020-2021,25-NOV-20 08.00.00.000000000 PM,AFC Ajax,FC Midtjylland,Johan Cruijff ArenA,3,1,0,0
+mt169,2020-2021,25-NOV-20 08.00.00.000000000 PM,Liverpool FC,Atalanta,Anfield,0,2,0,0
+mt170,2020-2021,01-DEC-20 08.00.00.000000000 PM,Atalanta,FC Midtjylland,Gewiss Stadium,1,1,0,0
+mt171,2020-2021,01-DEC-20 08.00.00.000000000 PM,Liverpool FC,AFC Ajax,Anfield,1,0,0,0
+mt172,2020-2021,09-DEC-20 05.55.00.000000000 PM,AFC Ajax,Atalanta,Johan Cruijff ArenA,0,1,0,0
+mt173,2020-2021,09-DEC-20 05.55.00.000000000 PM,FC Midtjylland,Liverpool FC,MCH Arena,1,1,0,0
+mt174,2020-2021,20-OCT-20 08.00.00.000000000 PM,Chelsea FC,Sevilla FC,Stamford Bridge,0,0,0,0
+mt175,2020-2021,20-OCT-20 08.00.00.000000000 PM,Stade Rennes,FK Krasnodar,Roazhon Park,1,1,0,4973
+mt176,2020-2021,28-OCT-20 05.55.00.000000000 PM,FK Krasnodar,Chelsea FC,Krasnodar Stadium,0,4,0,10544
+mt177,2020-2021,28-OCT-20 08.00.00.000000000 PM,Sevilla FC,Stade Rennes,Ramón Sánchez Pizjuán,1,0,0,0
+mt178,2020-2021,04-NOV-20 08.00.00.000000000 PM,Chelsea FC,Stade Rennes,Stamford Bridge,3,0,0,0
+mt179,2020-2021,04-NOV-20 08.00.00.000000000 PM,Sevilla FC,FK Krasnodar,Ramón Sánchez Pizjuán,3,2,0,1
+mt180,2020-2021,24-NOV-20 05.55.00.000000000 PM,Stade Rennes,Chelsea FC,Roazhon Park,1,2,0,0
+mt181,2020-2021,24-NOV-20 05.55.00.000000000 PM,FK Krasnodar,Sevilla FC,Krasnodar Stadium,1,2,0,10554
+mt182,2020-2021,02-DEC-20 05.55.00.000000000 PM,FK Krasnodar,Stade Rennes,Krasnodar Stadium,1,0,0,8747
+mt183,2020-2021,02-DEC-20 08.00.00.000000000 PM,Sevilla FC,Chelsea FC,Ramón Sánchez Pizjuán,0,4,0,0
+mt184,2020-2021,08-DEC-20 08.00.00.000000000 PM,Chelsea FC,FK Krasnodar,Stamford Bridge,1,1,0,2000
+mt185,2020-2021,08-DEC-20 08.00.00.000000000 PM,Stade Rennes,Sevilla FC,Roazhon Park,1,3,0,0
+mt186,2020-2021,20-OCT-20 05.55.00.000000000 PM,Zenit St. Petersburg,Club Brugge KV,Gazprom Arena,1,2,0,16682
+mt187,2020-2021,20-OCT-20 08.00.00.000000000 PM,Lazio Roma,Borussia Dortmund,Olimpico,3,1,0,1000
+mt188,2020-2021,28-OCT-20 08.00.00.000000000 PM,Borussia Dortmund,Zenit St. Petersburg,Signal Iduna Park,2,0,0,0
+mt189,2020-2021,28-OCT-20 08.00.00.000000000 PM,Club Brugge KV,Lazio Roma,Jan Breydel Stadion,1,1,0,0
+mt190,2020-2021,04-NOV-20 05.55.00.000000000 PM,Zenit St. Petersburg,Lazio Roma,Gazprom Arena,1,1,0,0
+mt191,2020-2021,04-NOV-20 08.00.00.000000000 PM,Club Brugge KV,Borussia Dortmund,Jan Breydel Stadion,0,3,0,0
+mt192,2020-2021,24-NOV-20 08.00.00.000000000 PM,Borussia Dortmund,Club Brugge KV,Signal Iduna Park,3,0,0,0
+mt193,2020-2021,24-NOV-20 08.00.00.000000000 PM,Lazio Roma,Zenit St. Petersburg,Olimpico,3,1,0,0
+mt194,2020-2021,02-DEC-20 08.00.00.000000000 PM,Borussia Dortmund,Lazio Roma,Signal Iduna Park,1,1,0,0
+mt195,2020-2021,02-DEC-20 08.00.00.000000000 PM,Club Brugge KV,Zenit St. Petersburg,Jan Breydel Stadion,3,0,0,0
+mt196,2020-2021,08-DEC-20 05.55.00.000000000 PM,Zenit St. Petersburg,Borussia Dortmund,Gazprom Arena,1,2,0,10860
+mt197,2020-2021,08-DEC-20 05.55.00.000000000 PM,Lazio Roma,Club Brugge KV,Olimpico,2,2,0,0
+mt198,2020-2021,20-OCT-20 05.55.00.000000000 PM,Dinamo Kiev,Juventus,Olimpiyskyi,0,2,0,14850
+mt199,2020-2021,20-OCT-20 08.00.00.000000000 PM,FC Barcelona,Ferencvárosi TC,Spotify Camp Nou,5,1,0,0
+mt200,2020-2021,28-OCT-20 08.00.00.000000000 PM,Ferencvárosi TC,Dinamo Kiev,Groupama Aréna,2,2,0,6171
+mt201,2020-2021,28-OCT-20 08.00.00.000000000 PM,Juventus,FC Barcelona,Allianz Stadium,0,2,0,0
+mt202,2020-2021,04-NOV-20 08.00.00.000000000 PM,FC Barcelona,Dinamo Kiev,Spotify Camp Nou,2,1,0,0
+mt203,2020-2021,04-NOV-20 08.00.00.000000000 PM,Ferencvárosi TC,Juventus,Puskás Aréna,1,4,0,18531
+mt204,2020-2021,24-NOV-20 08.00.00.000000000 PM,Dinamo Kiev,FC Barcelona,Olimpiyskyi,0,4,0,0
+mt205,2020-2021,24-NOV-20 08.00.00.000000000 PM,Juventus,Ferencvárosi TC,Allianz Stadium,2,1,0,0
+mt206,2020-2021,02-DEC-20 08.00.00.000000000 PM,Juventus,Dinamo Kiev,Allianz Stadium,3,0,0,0
+mt207,2020-2021,02-DEC-20 08.00.00.000000000 PM,Ferencvárosi TC,FC Barcelona,Groupama Aréna,0,3,0,0
+mt208,2020-2021,08-DEC-20 08.00.00.000000000 PM,Dinamo Kiev,Ferencvárosi TC,Olimpiyskyi,1,0,0,0
+mt209,2020-2021,08-DEC-20 08.00.00.000000000 PM,FC Barcelona,Juventus,Spotify Camp Nou,0,3,0,0
+mt210,2020-2021,20-OCT-20 08.00.00.000000000 PM,RB Leipzig,İstanbul Başakşehir,Red Bull Arena,2,0,0,999
+mt211,2020-2021,20-OCT-20 08.00.00.000000000 PM,Paris Saint-Germain,Manchester United,Parc des Princes,1,2,0,0
+mt212,2020-2021,28-OCT-20 05.55.00.000000000 PM,İstanbul Başakşehir,Paris Saint-Germain,Fatih Terim Stadium,0,2,0,350
+mt213,2020-2021,28-OCT-20 08.00.00.000000000 PM,Manchester United,RB Leipzig,Old Trafford,5,0,0,577
+mt214,2020-2021,04-NOV-20 05.55.00.000000000 PM,İstanbul Başakşehir,Manchester United,Fatih Terim Stadium,2,1,0,350
+mt215,2020-2021,04-NOV-20 08.00.00.000000000 PM,RB Leipzig,Paris Saint-Germain,Red Bull Arena,2,1,0,0
+mt216,2020-2021,24-NOV-20 08.00.00.000000000 PM,Manchester United,İstanbul Başakşehir,Old Trafford,4,1,0,545
+mt217,2020-2021,24-NOV-20 08.00.00.000000000 PM,Paris Saint-Germain,RB Leipzig,Parc des Princes,1,0,0,0
+mt218,2020-2021,02-DEC-20 05.55.00.000000000 PM,İstanbul Başakşehir,RB Leipzig,Fatih Terim Stadium,3,4,0,0
+mt219,2020-2021,02-DEC-20 08.00.00.000000000 PM,Manchester United,Paris Saint-Germain,Old Trafford,1,3,0,638
+mt220,2020-2021,08-DEC-20 08.00.00.000000000 PM,RB Leipzig,Manchester United,Red Bull Arena,3,2,0,0
+mt221,2020-2021,09-DEC-20 05.55.00.000000000 PM,Paris Saint-Germain,İstanbul Başakşehir,Parc des Princes,5,1,0,0
+mt222,2020-2021,16-FEB-21 08.00.00.000000000 PM,RB Leipzig,Liverpool FC,Puskás Aréna,0,2,0,0
+mt223,2020-2021,16-FEB-21 08.00.00.000000000 PM,FC Barcelona,Paris Saint-Germain,Spotify Camp Nou,1,4,0,0
+mt224,2020-2021,17-FEB-21 08.00.00.000000000 PM,FC Porto,Juventus,Estádio do Dragão,2,1,0,0
+mt225,2020-2021,17-FEB-21 08.00.00.000000000 PM,Sevilla FC,Borussia Dortmund,Ramón Sánchez Pizjuán,2,3,0,0
+mt226,2020-2021,23-FEB-21 08.00.00.000000000 PM,Lazio Roma,Bayern München,Olimpico,1,4,0,0
+mt227,2020-2021,23-FEB-21 08.00.00.000000000 PM,Atlético Madrid,Chelsea FC,Arena Națională,0,1,0,0
+mt228,2020-2021,24-FEB-21 08.00.00.000000000 PM,Bor. Mönchengladbach,Manchester City,Puskás Aréna,0,2,0,0
+mt229,2020-2021,24-FEB-21 08.00.00.000000000 PM,Atalanta,Real Madrid,Gewiss Stadium,0,1,0,0
+mt230,2020-2021,09-MAR-21 08.00.00.000000000 PM,Juventus,FC Porto,Allianz Stadium,3,2,0,0
+mt231,2020-2021,09-MAR-21 08.00.00.000000000 PM,Borussia Dortmund,Sevilla FC,Signal Iduna Park,2,2,0,0
+mt232,2020-2021,10-MAR-21 08.00.00.000000000 PM,Liverpool FC,RB Leipzig,Puskás Aréna,2,0,0,0
+mt233,2020-2021,10-MAR-21 08.00.00.000000000 PM,Paris Saint-Germain,FC Barcelona,Parc des Princes,1,1,0,0
+mt234,2020-2021,16-MAR-21 08.00.00.000000000 PM,Manchester City,Bor. Mönchengladbach,Puskás Aréna,2,0,0,0
+mt235,2020-2021,16-MAR-21 08.00.00.000000000 PM,Real Madrid,Atalanta,Alfredo Di Stéfano,3,1,0,0
+mt236,2020-2021,17-MAR-21 08.00.00.000000000 PM,Bayern München,Lazio Roma,Allianz Arena,2,1,0,0
+mt237,2020-2021,17-MAR-21 08.00.00.000000000 PM,Chelsea FC,Atlético Madrid,Stamford Bridge,2,0,0,0
+mt238,2020-2021,06-APR-21 08.00.00.000000000 PM,Manchester City,Borussia Dortmund,Etihad Stadium,2,1,0,0
+mt239,2020-2021,06-APR-21 08.00.00.000000000 PM,Real Madrid,Liverpool FC,Alfredo Di Stéfano,3,1,0,0
+mt240,2020-2021,07-APR-21 08.00.00.000000000 PM,FC Porto,Chelsea FC,Ramón Sánchez Pizjuán,0,2,0,0
+mt241,2020-2021,07-APR-21 08.00.00.000000000 PM,Bayern München,Paris Saint-Germain,Allianz Arena,2,3,0,0
+mt242,2020-2021,13-APR-21 08.00.00.000000000 PM,Chelsea FC,FC Porto,Ramón Sánchez Pizjuán,0,1,0,0
+mt243,2020-2021,13-APR-21 08.00.00.000000000 PM,Paris Saint-Germain,Bayern München,Parc des Princes,0,1,0,0
+mt244,2020-2021,14-APR-21 08.00.00.000000000 PM,Borussia Dortmund,Manchester City,Signal Iduna Park,1,2,0,0
+mt245,2020-2021,14-APR-21 08.00.00.000000000 PM,Liverpool FC,Real Madrid,Anfield,0,0,0,0
+mt246,2020-2021,27-APR-21 08.00.00.000000000 PM,Real Madrid,Chelsea FC,Alfredo Di Stéfano,1,1,0,0
+mt247,2020-2021,28-APR-21 08.00.00.000000000 PM,Paris Saint-Germain,Manchester City,Parc des Princes,1,2,0,0
+mt248,2020-2021,04-MAY-21 08.00.00.000000000 PM,Manchester City,Paris Saint-Germain,Etihad Stadium,2,0,0,0
+mt249,2020-2021,05-MAY-21 08.00.00.000000000 PM,Chelsea FC,Real Madrid,Stamford Bridge,2,0,0,0
+mt250,2020-2021,29-MAY-21 08.00.00.000000000 PM,Manchester City,Chelsea FC,Estádio do Dragão,0,1,0,14110

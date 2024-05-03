@@ -1,0 +1,126 @@
+MATCH_ID,SEASON,DATE_TIME,HOME_TEAM,AWAY_TEAM,STADIUM,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,PENALTY_SHOOT_OUT,ATTENDANCE
+mt620,2016-2017,13-SEP-16 07.45.00.000000000 PM,FC Basel,PFC Ludogorets Razgrad,St. Jakob-Park,1,1,0,30852
+mt621,2016-2017,13-SEP-16 07.45.00.000000000 PM,Paris Saint-Germain,Arsenal FC,Parc des Princes,1,1,0,46440
+mt622,2016-2017,28-SEP-16 07.45.00.000000000 PM,Arsenal FC,FC Basel,Emirates Stadium,2,0,0,59993
+mt623,2016-2017,28-SEP-16 07.45.00.000000000 PM,PFC Ludogorets Razgrad,Paris Saint-Germain,Vasil Levski,1,3,0,17155
+mt624,2016-2017,19-OCT-16 07.45.00.000000000 PM,Arsenal FC,PFC Ludogorets Razgrad,Emirates Stadium,6,0,0,59944
+mt625,2016-2017,19-OCT-16 07.45.00.000000000 PM,Paris Saint-Germain,FC Basel,Parc des Princes,3,0,0,46488
+mt626,2016-2017,01-NOV-16 07.45.00.000000000 PM,FC Basel,Paris Saint-Germain,St. Jakob-Park,1,2,0,34639
+mt627,2016-2017,01-NOV-16 07.45.00.000000000 PM,PFC Ludogorets Razgrad,Arsenal FC,Vasil Levski,2,3,0,30862
+mt628,2016-2017,23-NOV-16 07.45.00.000000000 PM,Arsenal FC,Paris Saint-Germain,Emirates Stadium,2,2,0,59628
+mt629,2016-2017,23-NOV-16 07.45.00.000000000 PM,PFC Ludogorets Razgrad,FC Basel,Vasil Levski,0,0,0,20821
+mt630,2016-2017,06-DEC-16 07.45.00.000000000 PM,FC Basel,Arsenal FC,St. Jakob-Park,1,4,0,36000
+mt631,2016-2017,06-DEC-16 07.45.00.000000000 PM,Paris Saint-Germain,PFC Ludogorets Razgrad,Parc des Princes,2,2,0,42650
+mt632,2016-2017,13-SEP-16 07.45.00.000000000 PM,Dinamo Kiev,SSC Napoli,Olimpiyskyi,1,2,0,35137
+mt633,2016-2017,13-SEP-16 07.45.00.000000000 PM,SL Benfica,Beşiktaş,Estádio da Luz,1,1,0,42126
+mt634,2016-2017,28-SEP-16 07.45.00.000000000 PM,Beşiktaş,Dinamo Kiev,Vodafone Park,1,1,0,33938
+mt635,2016-2017,28-SEP-16 07.45.00.000000000 PM,SSC Napoli,SL Benfica,Diego Maradona,4,2,0,41281
+mt636,2016-2017,19-OCT-16 07.45.00.000000000 PM,Dinamo Kiev,SL Benfica,Olimpiyskyi,0,2,0,25991
+mt637,2016-2017,19-OCT-16 07.45.00.000000000 PM,SSC Napoli,Beşiktaş,Diego Maradona,2,3,0,28502
+mt638,2016-2017,01-NOV-16 05.45.00.000000000 PM,Beşiktaş,SSC Napoli,Vodafone Park,1,1,0,35552
+mt639,2016-2017,01-NOV-16 07.45.00.000000000 PM,SL Benfica,Dinamo Kiev,Estádio da Luz,1,0,0,51641
+mt640,2016-2017,23-NOV-16 05.45.00.000000000 PM,Beşiktaş,SL Benfica,Vodafone Park,3,3,0,36063
+mt641,2016-2017,23-NOV-16 07.45.00.000000000 PM,SSC Napoli,Dinamo Kiev,Diego Maradona,0,0,0,33736
+mt642,2016-2017,06-DEC-16 07.45.00.000000000 PM,Dinamo Kiev,Beşiktaş,Olimpiyskyi,6,0,0,14036
+mt643,2016-2017,06-DEC-16 07.45.00.000000000 PM,SL Benfica,SSC Napoli,Estádio da Luz,1,2,0,55634
+mt644,2016-2017,13-SEP-16 07.45.00.000000000 PM,FC Barcelona,Celtic FC,Spotify Camp Nou,7,0,0,73290
+mt645,2016-2017,14-SEP-16 07.45.00.000000000 PM,Manchester City,Bor. Mönchengladbach,Etihad Stadium,4,0,0,30270
+mt646,2016-2017,28-SEP-16 07.45.00.000000000 PM,Bor. Mönchengladbach,FC Barcelona,Borussia-Park,1,2,0,46283
+mt647,2016-2017,28-SEP-16 07.45.00.000000000 PM,Celtic FC,Manchester City,Celtic Park,3,3,0,57592
+mt648,2016-2017,19-OCT-16 07.45.00.000000000 PM,Celtic FC,Bor. Mönchengladbach,Celtic Park,0,2,0,57814
+mt649,2016-2017,19-OCT-16 07.45.00.000000000 PM,FC Barcelona,Manchester City,Spotify Camp Nou,4,0,0,96290
+mt650,2016-2017,01-NOV-16 07.45.00.000000000 PM,Bor. Mönchengladbach,Celtic FC,Borussia-Park,1,1,0,46283
+mt651,2016-2017,01-NOV-16 07.45.00.000000000 PM,Manchester City,FC Barcelona,Etihad Stadium,3,1,0,53340
+mt652,2016-2017,23-NOV-16 07.45.00.000000000 PM,Bor. Mönchengladbach,Manchester City,Borussia-Park,1,1,0,45921
+mt653,2016-2017,23-NOV-16 07.45.00.000000000 PM,Celtic FC,FC Barcelona,Celtic Park,0,2,0,57937
+mt654,2016-2017,06-DEC-16 07.45.00.000000000 PM,FC Barcelona,Bor. Mönchengladbach,Spotify Camp Nou,4,0,0,67157
+mt655,2016-2017,06-DEC-16 07.45.00.000000000 PM,Manchester City,Celtic FC,Etihad Stadium,1,1,0,51297
+mt656,2016-2017,13-SEP-16 07.45.00.000000000 PM,Bayern München,FK Rostov,Allianz Arena,5,0,0,70000
+mt657,2016-2017,13-SEP-16 07.45.00.000000000 PM,PSV Eindhoven,Atlético Madrid,Philips Stadion,0,1,0,33989
+mt658,2016-2017,28-SEP-16 07.45.00.000000000 PM,Atlético Madrid,Bayern München,Vicente Calderón,1,0,0,48242
+mt659,2016-2017,28-SEP-16 07.45.00.000000000 PM,FK Rostov,PSV Eindhoven,Olimp – 2,2,2,0,12646
+mt660,2016-2017,19-OCT-16 07.45.00.000000000 PM,Bayern München,PSV Eindhoven,Allianz Arena,4,1,0,70000
+mt661,2016-2017,19-OCT-16 07.45.00.000000000 PM,FK Rostov,Atlético Madrid,Olimp – 2,0,1,0,15400
+mt662,2016-2017,01-NOV-16 07.45.00.000000000 PM,Atlético Madrid,FK Rostov,Vicente Calderón,2,1,0,40392
+mt663,2016-2017,01-NOV-16 07.45.00.000000000 PM,PSV Eindhoven,Bayern München,Philips Stadion,1,2,0,35000
+mt664,2016-2017,23-NOV-16 05.00.00.000000000 PM,FK Rostov,Bayern München,Olimp – 2,3,2,0,15211
+mt665,2016-2017,23-NOV-16 07.45.00.000000000 PM,Atlético Madrid,PSV Eindhoven,Vicente Calderón,2,0,0,37891
+mt666,2016-2017,06-DEC-16 07.45.00.000000000 PM,Bayern München,Atlético Madrid,Allianz Arena,1,0,0,70000
+mt667,2016-2017,06-DEC-16 07.45.00.000000000 PM,PSV Eindhoven,FK Rostov,Philips Stadion,0,0,0,33400
+mt668,2016-2017,14-SEP-16 07.45.00.000000000 PM,Bayer Leverkusen,CSKA Moskva,BayArena,2,2,0,23459
+mt669,2016-2017,14-SEP-16 07.45.00.000000000 PM,Tottenham Hotspur,AS Monaco,Wembley Stadium,1,2,0,85011
+mt670,2016-2017,27-SEP-16 07.45.00.000000000 PM,AS Monaco,Bayer Leverkusen,Stade Louis II,1,1,0,8100
+mt671,2016-2017,27-SEP-16 07.45.00.000000000 PM,CSKA Moskva,Tottenham Hotspur,Arena Khimki,0,1,0,26153
+mt672,2016-2017,18-OCT-16 07.45.00.000000000 PM,Bayer Leverkusen,Tottenham Hotspur,BayArena,0,0,0,28887
+mt673,2016-2017,18-OCT-16 07.45.00.000000000 PM,CSKA Moskva,AS Monaco,VEB Arena,1,1,0,24125
+mt674,2016-2017,02-NOV-16 07.45.00.000000000 PM,AS Monaco,CSKA Moskva,Stade Louis II,3,0,0,10029
+mt675,2016-2017,02-NOV-16 07.45.00.000000000 PM,Tottenham Hotspur,Bayer Leverkusen,Wembley Stadium,0,1,0,85512
+mt676,2016-2017,22-NOV-16 05.00.00.000000000 PM,CSKA Moskva,Bayer Leverkusen,VEB Arena,1,1,0,19164
+mt677,2016-2017,22-NOV-16 07.45.00.000000000 PM,AS Monaco,Tottenham Hotspur,Stade Louis II,2,1,0,13100
+mt678,2016-2017,07-DEC-16 07.45.00.000000000 PM,Bayer Leverkusen,AS Monaco,BayArena,3,0,0,21928
+mt679,2016-2017,07-DEC-16 07.45.00.000000000 PM,Tottenham Hotspur,CSKA Moskva,Wembley Stadium,3,1,0,62034
+mt680,2016-2017,14-SEP-16 07.45.00.000000000 PM,Legia Warszawa,Borussia Dortmund,Stadion Wojska Polskiego,0,6,0,27304
+mt681,2016-2017,14-SEP-16 07.45.00.000000000 PM,Real Madrid,Sporting CP,Santiago Bernabéu,2,1,0,72179
+mt682,2016-2017,27-SEP-16 07.45.00.000000000 PM,Borussia Dortmund,Real Madrid,Signal Iduna Park,2,2,0,65849
+mt683,2016-2017,27-SEP-16 07.45.00.000000000 PM,Sporting CP,Legia Warszawa,Estádio José Alvalade,2,0,0,40094
+mt684,2016-2017,18-OCT-16 07.45.00.000000000 PM,Real Madrid,Legia Warszawa,Santiago Bernabéu,5,1,0,70251
+mt685,2016-2017,18-OCT-16 07.45.00.000000000 PM,Sporting CP,Borussia Dortmund,Estádio José Alvalade,1,2,0,46609
+mt686,2016-2017,02-NOV-16 07.45.00.000000000 PM,Borussia Dortmund,Sporting CP,Signal Iduna Park,1,0,0,65849
+mt687,2016-2017,02-NOV-16 07.45.00.000000000 PM,Legia Warszawa,Real Madrid,Stadion Wojska Polskiego,3,3,0,0
+mt688,2016-2017,22-NOV-16 07.45.00.000000000 PM,Borussia Dortmund,Legia Warszawa,Signal Iduna Park,8,4,0,55094
+mt689,2016-2017,22-NOV-16 07.45.00.000000000 PM,Sporting CP,Real Madrid,Estádio José Alvalade,1,2,0,50046
+mt690,2016-2017,07-DEC-16 07.45.00.000000000 PM,Legia Warszawa,Sporting CP,Stadion Wojska Polskiego,1,0,0,28232
+mt691,2016-2017,07-DEC-16 07.45.00.000000000 PM,Real Madrid,Borussia Dortmund,Santiago Bernabéu,2,2,0,76894
+mt692,2016-2017,14-SEP-16 07.45.00.000000000 PM,Club Brugge KV,Leicester City,Jan Breydel Stadion,0,3,0,20970
+mt693,2016-2017,14-SEP-16 07.45.00.000000000 PM,FC Porto,FC København,Estádio do Dragão,1,1,0,34325
+mt694,2016-2017,27-SEP-16 07.45.00.000000000 PM,FC København,Club Brugge KV,Telia Parken,4,0,0,25605
+mt695,2016-2017,27-SEP-16 07.45.00.000000000 PM,Leicester City,FC Porto,King Power Stadium,1,0,0,31805
+mt696,2016-2017,18-OCT-16 07.45.00.000000000 PM,Club Brugge KV,FC Porto,Jan Breydel Stadion,1,2,0,23325
+mt697,2016-2017,18-OCT-16 07.45.00.000000000 PM,Leicester City,FC København,King Power Stadium,1,0,0,31037
+mt698,2016-2017,02-NOV-16 07.45.00.000000000 PM,FC København,Leicester City,Telia Parken,0,0,0,34146
+mt699,2016-2017,02-NOV-16 07.45.00.000000000 PM,FC Porto,Club Brugge KV,Estádio do Dragão,1,0,0,32310
+mt700,2016-2017,22-NOV-16 07.45.00.000000000 PM,FC København,FC Porto,Telia Parken,0,0,0,32036
+mt701,2016-2017,22-NOV-16 07.45.00.000000000 PM,Leicester City,Club Brugge KV,King Power Stadium,2,1,0,31443
+mt702,2016-2017,07-DEC-16 07.45.00.000000000 PM,Club Brugge KV,FC København,Jan Breydel Stadion,0,2,0,18981
+mt703,2016-2017,07-DEC-16 07.45.00.000000000 PM,FC Porto,Leicester City,Estádio do Dragão,5,0,0,39310
+mt704,2016-2017,14-SEP-16 07.45.00.000000000 PM,Juventus,Sevilla FC,Allianz Stadium,0,0,0,33261
+mt705,2016-2017,14-SEP-16 07.45.00.000000000 PM,Olympique Lyon,Dinamo Zagreb,Groupama Stadium,3,0,0,43754
+mt706,2016-2017,27-SEP-16 07.45.00.000000000 PM,Dinamo Zagreb,Juventus,Maksimir,0,4,0,23875
+mt707,2016-2017,27-SEP-16 07.45.00.000000000 PM,Sevilla FC,Olympique Lyon,Ramón Sánchez Pizjuán,1,0,0,36741
+mt708,2016-2017,18-OCT-16 07.45.00.000000000 PM,Dinamo Zagreb,Sevilla FC,Maksimir,0,1,0,6021
+mt709,2016-2017,18-OCT-16 07.45.00.000000000 PM,Olympique Lyon,Juventus,Groupama Stadium,0,1,0,53907
+mt710,2016-2017,02-NOV-16 07.45.00.000000000 PM,Juventus,Olympique Lyon,Allianz Stadium,1,1,0,40356
+mt711,2016-2017,02-NOV-16 07.45.00.000000000 PM,Sevilla FC,Dinamo Zagreb,Ramón Sánchez Pizjuán,4,0,0,35215
+mt712,2016-2017,22-NOV-16 07.45.00.000000000 PM,Dinamo Zagreb,Olympique Lyon,Maksimir,0,1,0,7834
+mt713,2016-2017,22-NOV-16 07.45.00.000000000 PM,Sevilla FC,Juventus,Ramón Sánchez Pizjuán,1,3,0,38942
+mt714,2016-2017,07-DEC-16 07.45.00.000000000 PM,Juventus,Dinamo Zagreb,Allianz Stadium,2,0,0,39380
+mt715,2016-2017,07-DEC-16 07.45.00.000000000 PM,Olympique Lyon,Sevilla FC,Groupama Stadium,0,0,0,52423
+mt716,2016-2017,14-FEB-17 07.45.00.000000000 PM,SL Benfica,Borussia Dortmund,Estádio da Luz,1,0,0,55124
+mt717,2016-2017,14-FEB-17 07.45.00.000000000 PM,Paris Saint-Germain,FC Barcelona,Parc des Princes,4,0,0,46484
+mt718,2016-2017,15-FEB-17 07.45.00.000000000 PM,Real Madrid,SSC Napoli,Santiago Bernabéu,3,1,0,78000
+mt719,2016-2017,15-FEB-17 07.45.00.000000000 PM,Bayern München,Arsenal FC,Allianz Arena,5,1,0,70000
+mt720,2016-2017,21-FEB-17 07.45.00.000000000 PM,Manchester City,AS Monaco,Etihad Stadium,5,3,0,53351
+mt721,2016-2017,21-FEB-17 07.45.00.000000000 PM,Bayer Leverkusen,Atlético Madrid,BayArena,2,4,0,29300
+mt722,2016-2017,22-FEB-17 07.45.00.000000000 PM,FC Porto,Juventus,Estádio do Dragão,0,2,0,49229
+mt723,2016-2017,22-FEB-17 07.45.00.000000000 PM,Sevilla FC,Leicester City,Ramón Sánchez Pizjuán,2,1,0,38834
+mt724,2016-2017,07-MAR-17 07.45.00.000000000 PM,SSC Napoli,Real Madrid,Diego Maradona,1,3,0,56695
+mt725,2016-2017,07-MAR-17 07.45.00.000000000 PM,Arsenal FC,Bayern München,Emirates Stadium,1,5,0,59911
+mt726,2016-2017,08-MAR-17 07.45.00.000000000 PM,Borussia Dortmund,SL Benfica,Signal Iduna Park,4,0,0,65849
+mt727,2016-2017,08-MAR-17 07.45.00.000000000 PM,FC Barcelona,Paris Saint-Germain,Spotify Camp Nou,6,1,0,96290
+mt728,2016-2017,14-MAR-17 07.45.00.000000000 PM,Juventus,FC Porto,Allianz Stadium,1,0,0,41161
+mt729,2016-2017,14-MAR-17 07.45.00.000000000 PM,Leicester City,Sevilla FC,King Power Stadium,2,0,0,31520
+mt730,2016-2017,15-MAR-17 07.45.00.000000000 PM,AS Monaco,Manchester City,Stade Louis II,3,1,0,15700
+mt731,2016-2017,15-MAR-17 07.45.00.000000000 PM,Atlético Madrid,Bayer Leverkusen,Vicente Calderón,0,0,0,49133
+mt732,2016-2017,11-APR-17 07.45.00.000000000 PM,Juventus,FC Barcelona,Allianz Stadium,3,0,0,41092
+mt733,2016-2017,12-APR-17 05.45.00.000000000 PM,Borussia Dortmund,AS Monaco,Signal Iduna Park,2,3,0,65849
+mt734,2016-2017,12-APR-17 07.45.00.000000000 PM,Atlético Madrid,Leicester City,Vicente Calderón,1,0,0,51423
+mt735,2016-2017,12-APR-17 07.45.00.000000000 PM,Bayern München,Real Madrid,Allianz Arena,1,2,0,70000
+mt736,2016-2017,18-APR-17 07.45.00.000000000 PM,Leicester City,Atlético Madrid,King Power Stadium,1,1,0,31548
+mt737,2016-2017,18-APR-17 07.45.00.000000000 PM,Real Madrid,Bayern München,Santiago Bernabéu,4,2,0,78346
+mt738,2016-2017,19-APR-17 07.45.00.000000000 PM,FC Barcelona,Juventus,Spotify Camp Nou,0,0,0,96290
+mt739,2016-2017,19-APR-17 07.50.00.000000000 PM,AS Monaco,Borussia Dortmund,Stade Louis II,3,1,0,17135
+mt740,2016-2017,02-MAY-17 07.45.00.000000000 PM,Real Madrid,Atlético Madrid,Santiago Bernabéu,3,0,0,77609
+mt741,2016-2017,03-MAY-17 07.45.00.000000000 PM,AS Monaco,Juventus,Stade Louis II,0,2,0,16762
+mt742,2016-2017,09-MAY-17 07.45.00.000000000 PM,Juventus,AS Monaco,Allianz Stadium,2,1,0,40244
+mt743,2016-2017,10-MAY-17 07.45.00.000000000 PM,Atlético Madrid,Real Madrid,Vicente Calderón,2,1,0,53422
+mt744,2016-2017,03-JUN-17 07.45.00.000000000 PM,Juventus,Real Madrid,Millennium,1,4,0,65842

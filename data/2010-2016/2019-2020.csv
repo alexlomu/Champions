@@ -1,0 +1,120 @@
+MATCH_ID,SEASON,DATE_TIME,HOME_TEAM,AWAY_TEAM,STADIUM,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,PENALTY_SHOOT_OUT,ATTENDANCE
+mt251,2019-2020,18-SEP-19 05.55.00.000000000 PM,Club Brugge KV,Galatasaray,Jan Breydel Stadion,0,0,0,26616
+mt252,2019-2020,18-SEP-19 08.00.00.000000000 PM,Paris Saint-Germain,Real Madrid,Parc des Princes,3,0,0,46361
+mt253,2019-2020,01-OCT-19 05.55.00.000000000 PM,Real Madrid,Club Brugge KV,Santiago Bernabéu,2,2,0,65112
+mt254,2019-2020,01-OCT-19 08.00.00.000000000 PM,Galatasaray,Paris Saint-Germain,Nef Stadyumu,0,1,0,46532
+mt255,2019-2020,22-OCT-19 08.00.00.000000000 PM,Club Brugge KV,Paris Saint-Germain,Jan Breydel Stadion,0,5,0,26946
+mt256,2019-2020,22-OCT-19 08.00.00.000000000 PM,Galatasaray,Real Madrid,Nef Stadyumu,0,1,0,48886
+mt257,2019-2020,06-NOV-19 08.00.00.000000000 PM,Paris Saint-Germain,Club Brugge KV,Parc des Princes,1,0,0,47418
+mt258,2019-2020,06-NOV-19 08.00.00.000000000 PM,Real Madrid,Galatasaray,Santiago Bernabéu,6,0,0,65492
+mt259,2019-2020,26-NOV-19 05.55.00.000000000 PM,Galatasaray,Club Brugge KV,Nef Stadyumu,1,1,0,34500
+mt260,2019-2020,26-NOV-19 08.00.00.000000000 PM,Real Madrid,Paris Saint-Germain,Santiago Bernabéu,2,2,0,75534
+mt261,2019-2020,11-DEC-19 08.00.00.000000000 PM,Paris Saint-Germain,Galatasaray,Parc des Princes,5,0,0,46509
+mt262,2019-2020,11-DEC-19 08.00.00.000000000 PM,Club Brugge KV,Real Madrid,Jan Breydel Stadion,1,3,0,27308
+mt263,2019-2020,18-SEP-19 05.55.00.000000000 PM,Olympiakos Piraeus,Tottenham Hotspur,Georgios Karaiskakis,2,2,0,31001
+mt264,2019-2020,18-SEP-19 08.00.00.000000000 PM,Bayern München,Crvena Zvezda,Allianz Arena,3,0,0,70000
+mt265,2019-2020,01-OCT-19 08.00.00.000000000 PM,Tottenham Hotspur,Bayern München,Tottenham Hotspur Stadium,2,7,0,60127
+mt266,2019-2020,01-OCT-19 08.00.00.000000000 PM,Crvena Zvezda,Olympiakos Piraeus,Marakana,3,1,0,43291
+mt267,2019-2020,22-OCT-19 08.00.00.000000000 PM,Tottenham Hotspur,Crvena Zvezda,Tottenham Hotspur Stadium,5,0,0,51743
+mt268,2019-2020,22-OCT-19 08.00.00.000000000 PM,Olympiakos Piraeus,Bayern München,Georgios Karaiskakis,2,3,0,31670
+mt269,2019-2020,06-NOV-19 05.55.00.000000000 PM,Bayern München,Olympiakos Piraeus,Allianz Arena,2,0,0,63646
+mt270,2019-2020,06-NOV-19 08.00.00.000000000 PM,Crvena Zvezda,Tottenham Hotspur,Marakana,0,4,0,42381
+mt271,2019-2020,26-NOV-19 08.00.00.000000000 PM,Tottenham Hotspur,Olympiakos Piraeus,Tottenham Hotspur Stadium,4,2,0,57024
+mt272,2019-2020,26-NOV-19 08.00.00.000000000 PM,Crvena Zvezda,Bayern München,Marakana,0,6,0,44118
+mt273,2019-2020,11-DEC-19 08.00.00.000000000 PM,Bayern München,Tottenham Hotspur,Allianz Arena,3,1,0,66353
+mt274,2019-2020,11-DEC-19 08.00.00.000000000 PM,Olympiakos Piraeus,Crvena Zvezda,Georgios Karaiskakis,1,0,0,31898
+mt275,2019-2020,18-SEP-19 08.00.00.000000000 PM,Shakhtar Donetsk,Manchester City,Metalist Stadion,0,3,0,36675
+mt276,2019-2020,18-SEP-19 08.00.00.000000000 PM,Dinamo Zagreb,Atalanta,Maksimir,4,0,0,28863
+mt277,2019-2020,01-OCT-19 05.55.00.000000000 PM,Atalanta,Shakhtar Donetsk,Giuseppe Meazza,1,2,0,26022
+mt278,2019-2020,01-OCT-19 08.00.00.000000000 PM,Manchester City,Dinamo Zagreb,Etihad Stadium,2,0,0,49046
+mt279,2019-2020,22-OCT-19 05.55.00.000000000 PM,Shakhtar Donetsk,Dinamo Zagreb,Metalist Stadion,2,2,0,21526
+mt280,2019-2020,22-OCT-19 08.00.00.000000000 PM,Manchester City,Atalanta,Etihad Stadium,5,1,0,49308
+mt281,2019-2020,06-NOV-19 08.00.00.000000000 PM,Dinamo Zagreb,Shakhtar Donetsk,Maksimir,3,3,0,28316
+mt282,2019-2020,06-NOV-19 08.00.00.000000000 PM,Atalanta,Manchester City,Giuseppe Meazza,1,1,0,34326
+mt283,2019-2020,26-NOV-19 08.00.00.000000000 PM,Manchester City,Shakhtar Donetsk,Etihad Stadium,1,1,0,52020
+mt284,2019-2020,26-NOV-19 08.00.00.000000000 PM,Atalanta,Dinamo Zagreb,Giuseppe Meazza,2,0,0,28365
+mt285,2019-2020,11-DEC-19 05.55.00.000000000 PM,Shakhtar Donetsk,Atalanta,Metalist Stadion,0,3,0,26536
+mt286,2019-2020,11-DEC-19 05.55.00.000000000 PM,Dinamo Zagreb,Manchester City,Maksimir,1,4,0,29385
+mt287,2019-2020,18-SEP-19 08.00.00.000000000 PM,Atlético Madrid,Juventus,Wanda Metropolitano,2,2,0,66283
+mt288,2019-2020,18-SEP-19 08.00.00.000000000 PM,Bayer Leverkusen,Lokomotiv Moskva,BayArena,1,2,0,26592
+mt289,2019-2020,01-OCT-19 08.00.00.000000000 PM,Juventus,Bayer Leverkusen,Allianz Stadium,3,0,0,34525
+mt290,2019-2020,01-OCT-19 08.00.00.000000000 PM,Lokomotiv Moskva,Atlético Madrid,RŽD-Arena,0,2,0,27051
+mt291,2019-2020,22-OCT-19 05.55.00.000000000 PM,Atlético Madrid,Bayer Leverkusen,Wanda Metropolitano,1,0,0,56776
+mt292,2019-2020,22-OCT-19 08.00.00.000000000 PM,Juventus,Lokomotiv Moskva,Allianz Stadium,2,1,0,38547
+mt293,2019-2020,06-NOV-19 05.55.00.000000000 PM,Lokomotiv Moskva,Juventus,RŽD-Arena,1,2,0,26861
+mt294,2019-2020,06-NOV-19 08.00.00.000000000 PM,Bayer Leverkusen,Atlético Madrid,BayArena,2,1,0,28160
+mt295,2019-2020,26-NOV-19 05.55.00.000000000 PM,Lokomotiv Moskva,Bayer Leverkusen,RŽD-Arena,0,2,0,25757
+mt296,2019-2020,26-NOV-19 08.00.00.000000000 PM,Juventus,Atlético Madrid,Allianz Stadium,1,0,0,40486
+mt297,2019-2020,11-DEC-19 08.00.00.000000000 PM,Atlético Madrid,Lokomotiv Moskva,Wanda Metropolitano,2,0,0,58426
+mt298,2019-2020,11-DEC-19 08.00.00.000000000 PM,Bayer Leverkusen,Juventus,BayArena,0,2,0,29542
+mt299,2019-2020,17-SEP-19 08.00.00.000000000 PM,SSC Napoli,Liverpool FC,Diego Maradona,2,0,0,38878
+mt300,2019-2020,17-SEP-19 08.00.00.000000000 PM,RB Salzburg,KRC Genk,Red Bull Arena,6,2,0,29520
+mt301,2019-2020,02-OCT-19 05.55.00.000000000 PM,KRC Genk,SSC Napoli,Cegeka Arena,0,0,0,19962
+mt302,2019-2020,02-OCT-19 08.00.00.000000000 PM,Liverpool FC,RB Salzburg,Anfield,4,3,0,52234
+mt303,2019-2020,23-OCT-19 08.00.00.000000000 PM,RB Salzburg,SSC Napoli,Red Bull Arena,2,3,0,29520
+mt304,2019-2020,23-OCT-19 08.00.00.000000000 PM,KRC Genk,Liverpool FC,Cegeka Arena,1,4,0,19626
+mt305,2019-2020,05-NOV-19 08.00.00.000000000 PM,Liverpool FC,KRC Genk,Anfield,2,1,0,52611
+mt306,2019-2020,05-NOV-19 08.00.00.000000000 PM,SSC Napoli,RB Salzburg,Diego Maradona,1,1,0,32862
+mt307,2019-2020,27-NOV-19 08.00.00.000000000 PM,Liverpool FC,SSC Napoli,Anfield,1,1,0,52128
+mt308,2019-2020,27-NOV-19 08.00.00.000000000 PM,KRC Genk,RB Salzburg,Cegeka Arena,1,4,0,17284
+mt309,2019-2020,10-DEC-19 05.55.00.000000000 PM,SSC Napoli,KRC Genk,Diego Maradona,4,0,0,22265
+mt310,2019-2020,10-DEC-19 05.55.00.000000000 PM,RB Salzburg,Liverpool FC,Red Bull Arena,0,2,0,29520
+mt311,2019-2020,17-SEP-19 05.55.00.000000000 PM,Inter,Slavia Praha,Giuseppe Meazza,1,1,0,50128
+mt312,2019-2020,17-SEP-19 08.00.00.000000000 PM,Borussia Dortmund,FC Barcelona,Signal Iduna Park,0,0,0,66099
+mt313,2019-2020,02-OCT-19 05.55.00.000000000 PM,Slavia Praha,Borussia Dortmund,Sinobo Stadium,0,2,0,19370
+mt314,2019-2020,02-OCT-19 08.00.00.000000000 PM,FC Barcelona,Inter,Spotify Camp Nou,2,1,0,86141
+mt315,2019-2020,23-OCT-19 08.00.00.000000000 PM,Inter,Borussia Dortmund,Giuseppe Meazza,2,0,0,65673
+mt316,2019-2020,23-OCT-19 08.00.00.000000000 PM,Slavia Praha,FC Barcelona,Sinobo Stadium,1,2,0,19170
+mt317,2019-2020,05-NOV-19 05.55.00.000000000 PM,FC Barcelona,Slavia Praha,Spotify Camp Nou,0,0,0,67023
+mt318,2019-2020,05-NOV-19 08.00.00.000000000 PM,Borussia Dortmund,Inter,Signal Iduna Park,3,2,0,66099
+mt319,2019-2020,27-NOV-19 08.00.00.000000000 PM,FC Barcelona,Borussia Dortmund,Spotify Camp Nou,3,1,0,90071
+mt320,2019-2020,27-NOV-19 08.00.00.000000000 PM,Slavia Praha,Inter,Sinobo Stadium,1,3,0,19370
+mt321,2019-2020,10-DEC-19 08.00.00.000000000 PM,Borussia Dortmund,Slavia Praha,Signal Iduna Park,2,1,0,65079
+mt322,2019-2020,10-DEC-19 08.00.00.000000000 PM,Inter,FC Barcelona,Giuseppe Meazza,1,2,0,71818
+mt323,2019-2020,17-SEP-19 05.55.00.000000000 PM,Olympique Lyon,Zenit St. Petersburg,Groupama Stadium,1,1,0,47201
+mt324,2019-2020,17-SEP-19 08.00.00.000000000 PM,SL Benfica,RB Leipzig,Estádio da Luz,1,2,0,46460
+mt325,2019-2020,02-OCT-19 08.00.00.000000000 PM,Zenit St. Petersburg,SL Benfica,Gazprom Arena,3,1,0,51683
+mt326,2019-2020,02-OCT-19 08.00.00.000000000 PM,RB Leipzig,Olympique Lyon,Red Bull Arena,0,2,0,40194
+mt327,2019-2020,23-OCT-19 05.55.00.000000000 PM,RB Leipzig,Zenit St. Petersburg,Red Bull Arena,2,1,0,41058
+mt328,2019-2020,23-OCT-19 08.00.00.000000000 PM,SL Benfica,Olympique Lyon,Estádio da Luz,2,1,0,53035
+mt329,2019-2020,05-NOV-19 05.55.00.000000000 PM,Zenit St. Petersburg,RB Leipzig,Gazprom Arena,0,2,0,50452
+mt330,2019-2020,05-NOV-19 08.00.00.000000000 PM,Olympique Lyon,SL Benfica,Groupama Stadium,3,1,0,51077
+mt331,2019-2020,27-NOV-19 05.55.00.000000000 PM,Zenit St. Petersburg,Olympique Lyon,Gazprom Arena,2,0,0,51183
+mt332,2019-2020,27-NOV-19 08.00.00.000000000 PM,RB Leipzig,SL Benfica,Red Bull Arena,2,2,0,38339
+mt333,2019-2020,10-DEC-19 08.00.00.000000000 PM,SL Benfica,Zenit St. Petersburg,Estádio da Luz,3,0,0,40232
+mt334,2019-2020,10-DEC-19 08.00.00.000000000 PM,Olympique Lyon,RB Leipzig,Groupama Stadium,2,2,0,53288
+mt335,2019-2020,17-SEP-19 08.00.00.000000000 PM,Chelsea FC,Valencia CF,Stamford Bridge,0,1,0,39469
+mt336,2019-2020,17-SEP-19 08.00.00.000000000 PM,AFC Ajax,Lille OSC,Johan Cruijff ArenA,3,0,0,51441
+mt337,2019-2020,02-OCT-19 08.00.00.000000000 PM,Valencia CF,AFC Ajax,Estadio de Mestalla,0,3,0,44659
+mt338,2019-2020,02-OCT-19 08.00.00.000000000 PM,Lille OSC,Chelsea FC,Stade Pierre Mauroy,1,2,0,48523
+mt339,2019-2020,23-OCT-19 05.55.00.000000000 PM,AFC Ajax,Chelsea FC,Johan Cruijff ArenA,0,1,0,52482
+mt340,2019-2020,23-OCT-19 08.00.00.000000000 PM,Lille OSC,Valencia CF,Stade Pierre Mauroy,1,1,0,47488
+mt341,2019-2020,05-NOV-19 08.00.00.000000000 PM,Chelsea FC,AFC Ajax,Stamford Bridge,4,4,0,39132
+mt342,2019-2020,05-NOV-19 08.00.00.000000000 PM,Valencia CF,Lille OSC,Estadio de Mestalla,4,1,0,38252
+mt343,2019-2020,27-NOV-19 05.55.00.000000000 PM,Valencia CF,Chelsea FC,Estadio de Mestalla,2,2,0,43486
+mt344,2019-2020,27-NOV-19 08.00.00.000000000 PM,Lille OSC,AFC Ajax,Stade Pierre Mauroy,0,2,0,48612
+mt345,2019-2020,10-DEC-19 08.00.00.000000000 PM,Chelsea FC,Lille OSC,Stamford Bridge,2,1,0,40016
+mt346,2019-2020,10-DEC-19 08.00.00.000000000 PM,AFC Ajax,Valencia CF,Johan Cruijff ArenA,0,1,0,51931
+mt347,2019-2020,18-FEB-20 08.00.00.000000000 PM,Borussia Dortmund,Paris Saint-Germain,Signal Iduna Park,2,1,0,66099
+mt348,2019-2020,18-FEB-20 08.00.00.000000000 PM,Atlético Madrid,Liverpool FC,Wanda Metropolitano,1,0,0,67443
+mt349,2019-2020,19-FEB-20 08.00.00.000000000 PM,Atalanta,Valencia CF,Giuseppe Meazza,4,1,0,44236
+mt350,2019-2020,19-FEB-20 08.00.00.000000000 PM,Tottenham Hotspur,RB Leipzig,Tottenham Hotspur Stadium,0,1,0,60095
+mt351,2019-2020,25-FEB-20 08.00.00.000000000 PM,Chelsea FC,Bayern München,Stamford Bridge,0,3,0,36761
+mt352,2019-2020,25-FEB-20 08.00.00.000000000 PM,SSC Napoli,FC Barcelona,Diego Maradona,1,1,0,44388
+mt353,2019-2020,26-FEB-20 08.00.00.000000000 PM,Real Madrid,Manchester City,Santiago Bernabéu,1,2,0,75615
+mt354,2019-2020,26-FEB-20 08.00.00.000000000 PM,Olympique Lyon,Juventus,Groupama Stadium,1,0,0,57335
+mt355,2019-2020,10-MAR-20 08.00.00.000000000 PM,Valencia CF,Atalanta,Estadio de Mestalla,3,4,0,0
+mt356,2019-2020,10-MAR-20 08.00.00.000000000 PM,RB Leipzig,Tottenham Hotspur,Red Bull Arena,3,0,0,42146
+mt357,2019-2020,11-MAR-20 08.00.00.000000000 PM,Paris Saint-Germain,Borussia Dortmund,Parc des Princes,2,0,0,0
+mt358,2019-2020,11-MAR-20 08.00.00.000000000 PM,Liverpool FC,Atlético Madrid,Anfield,2,3,0,45000
+mt359,2019-2020,07-AUG-20 08.00.00.000000000 PM,Manchester City,Real Madrid,Etihad Stadium,2,1,0,0
+mt360,2019-2020,07-AUG-20 08.00.00.000000000 PM,Juventus,Olympique Lyon,Allianz Stadium,2,1,0,0
+mt361,2019-2020,08-AUG-20 08.00.00.000000000 PM,Bayern München,Chelsea FC,Allianz Arena,4,1,0,0
+mt362,2019-2020,08-AUG-20 08.00.00.000000000 PM,FC Barcelona,SSC Napoli,Spotify Camp Nou,3,1,0,0
+mt363,2019-2020,12-AUG-20 08.00.00.000000000 PM,Atalanta,Paris Saint-Germain,Estádio da Luz,1,2,0,0
+mt364,2019-2020,13-AUG-20 08.00.00.000000000 PM,RB Leipzig,Atlético Madrid,Estádio José Alvalade,2,1,0,0
+mt365,2019-2020,14-AUG-20 08.00.00.000000000 PM,FC Barcelona,Bayern München,Estádio da Luz,2,8,0,0
+mt366,2019-2020,15-AUG-20 08.00.00.000000000 PM,Manchester City,Olympique Lyon,Estádio José Alvalade,1,3,0,0
+mt367,2019-2020,18-AUG-20 08.00.00.000000000 PM,RB Leipzig,Paris Saint-Germain,Estádio da Luz,0,3,0,0
+mt368,2019-2020,19-AUG-20 08.00.00.000000000 PM,Olympique Lyon,Bayern München,Estádio José Alvalade,0,3,0,0
+mt369,2019-2020,23-AUG-20 08.00.00.000000000 PM,Paris Saint-Germain,Bayern München,Estádio da Luz,0,1,0,0
