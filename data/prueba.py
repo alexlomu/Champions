@@ -59,7 +59,7 @@ def limpiar_datos_csv_tipo_2(archivo):
     return df
 
 # Ruta a la carpeta que contiene los archivos CSV
-ruta_carpeta = "data/2010-2016"
+ruta_carpeta = "data"
 
 # Obtener la lista de archivos CSV en la carpeta especificada
 archivos_csv = [archivo for archivo in os.listdir(ruta_carpeta) if archivo.endswith('.csv')]
@@ -89,3 +89,5 @@ dataframe_completo = dataframe_completo.drop(columns=columnas_a_eliminar, errors
 
 # Mostrar una muestra de los datos limpios y procesados
 print(dataframe_completo.head())
+
+dataframe_completo.to_csv('dataframe_completo.csv', index=False)
