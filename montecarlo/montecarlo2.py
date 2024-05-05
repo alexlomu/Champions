@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from sklearn.preprocessing import LabelEncoder
 
 # Cargar los datos
 dataframe_completo = pd.read_csv("dataframe_completo.csv")
@@ -37,6 +38,9 @@ enfrentamientos = pd.DataFrame({
     'Equipo_visitante': ['Paris Saint-Germain', 'Real Madrid']
 })
 
+# Inicializar las predicciones de los enfrentamientos
+predicciones_enfrentamientos = [''] * len(enfrentamientos)
+
 # Realizar predicciones sobre los enfrentamientos utilizando Monte Carlo
 for index, enfrentamiento in enfrentamientos.iterrows():
     # Obtener las estadísticas de los equipos para el enfrentamiento actual
@@ -46,9 +50,17 @@ for index, enfrentamiento in enfrentamientos.iterrows():
     # Realizar la simulación de Monte Carlo
     prob_team1_win, prob_team2_win, prob_draw = monte_carlo_simulation(team1_stats, team2_stats)
 
-    # Presentar los resultados
-    print(f"Partido: {enfrentamiento['Equipo_local']} vs {enfrentamiento['Equipo_visitante']}")
-    print(f"Probabilidad de victoria de {enfrentamiento['Equipo_local']}: {prob_team1_win}")
-    print(f"Probabilidad de victoria de {enfrentamiento['Equipo_visitante']}: {prob_team2_win}")
-    print(f"Probabilidad de empate: {prob_draw}")
- 
+    # Determinar la predicción basada en las probabilidades
+    if prob_team1_win > prob_team2_win:
+        predicciones_enfrentamientos[index] = 'Local'
+    elif prob_team1_win < prob_team2_win:
+        predicciones_enfrentamientos[index] = 'Visitante'
+    else:
+        predicciones_enfrentamientos[index] = 'Empate'
+
+# Presentar los resultados de los enfrentamientos
+label_encoder = LabelEncoder()
+label_encoder.fit(['Empate', 'Local', 'Visitante'])
+
+for i, (equipo_local, equipo_visitante) in enumerate(zip(enfrentamientos['Equipo_local'], enfrentamientos['Equipo_visitante'])):
+    print(f"Partido: {equipo_local} vs {equipo_visitante}, Predicción: {label_encoder.classes_[label_encoder.transform([predicciones_enfrentamientos[i]])[0]]}")
