@@ -99,7 +99,7 @@ for archivo in archivos_csv:
 # Unificar todos los DataFrames en uno solo
 dataframe_completo = pd.concat(dataframes, ignore_index=True)
 
-columnas_a_eliminar = ['ID_partido','Temporada','Fecha_hora','Estadio', 'Asistencia', 'Resultado_parcial','Fecha','Puntuacion_local','Puntuacion_visitante','Resultados_temp','∑FT','Penalties']
+columnas_a_eliminar = ['ID_partido','Temporada','Fecha_hora','Estadio', 'Asistencia', 'Resultado_parcial','Fecha','Resultados_temp','∑FT','Penalties']
 dataframe_completo = dataframe_completo.drop(columns=columnas_a_eliminar, errors='ignore')
 
 dataframe_completo['Equipo_visitante'] = dataframe_completo['Equipo_visitante'].str.split(' ›').str[0]
