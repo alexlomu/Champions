@@ -67,4 +67,4 @@ prediccion_visitante = modelo_rf_visitante.predict(partido_ejemplo_encoded)
 
 # Presentar el resultado del partido de ejemplo
 resultado_final = f"{int(round(prediccion_local[0]))}-{int(round(prediccion_visitante[0]))}"
-print("Resultado del partido de ejemplo:", resultado_final)
+print("Resultado del partido:", resultado_final)
