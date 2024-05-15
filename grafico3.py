@@ -38,4 +38,5 @@ plt.legend()
 
 # Mostrar el gráfico
 plt.tight_layout()
+plt.savefig('graficas/porcentaje_victorias.png')
 plt.show()

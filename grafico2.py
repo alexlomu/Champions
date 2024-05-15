@@ -33,4 +33,6 @@ plt.title('Gráfico de dispersión de los 10 mejores equipos')
 # Mostrar el gráfico
 plt.grid(True)
 plt.tight_layout()
+plt.savefig('graficas/top_mejores_equipos.png')
 plt.show()
+

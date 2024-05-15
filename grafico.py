@@ -28,4 +28,6 @@ plt.xlabel('Equipos')
 plt.ylabel('Número de Victorias')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
+
+plt.savefig('graficas/top_equipos_victorias.png')
 plt.show()
