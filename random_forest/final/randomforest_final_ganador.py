@@ -30,7 +30,6 @@ equipo_visitante = 'Real Madrid'
 partido_final = pd.DataFrame({
     'Equipo_local': [equipo_local],
     'Equipo_visitante': [equipo_visitante],
-    'Diferencia_goles': [0]  # Inicialmente sin diferencia de goles
 })
 
 # Codificar variables categóricas para el partido final
