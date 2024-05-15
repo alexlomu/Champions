@@ -73,6 +73,25 @@ def limpiar_datos_csv_tipo_2(archivo):
     df = df.rename(columns=columnas_renombradas)
     return df
 
+# Función para rellenar las puntuaciones faltantes en un DataFrame
+def rellenar_puntuaciones(df):
+    # Separar el resultado final en puntuaciones
+    df[['Puntuacion_local', 'Puntuacion_visitante']] = df['Resultado_final'].str.split('-', expand=True)
+
+    # Convertir las puntuaciones a números
+    df['Puntuacion_local'] = pd.to_numeric(df['Puntuacion_local'], errors='coerce')
+    df['Puntuacion_visitante'] = pd.to_numeric(df['Puntuacion_visitante'], errors='coerce')
+
+    # Rellenar valores faltantes en las columnas de puntuación con el resultado final
+    df['Puntuacion_local'].fillna(df['Puntuacion_local'].mean(), inplace=True)
+    df['Puntuacion_visitante'].fillna(df['Puntuacion_visitante'].mean(), inplace=True)
+
+    # Reemplazar "Real Madrid CF" por "Real Madrid" en los nombres de equipos
+    df['Equipo_local'] = df['Equipo_local'].replace('Real Madrid CF', 'Real Madrid')
+    df['Equipo_visitante'] = df['Equipo_visitante'].replace('Real Madrid CF', 'Real Madrid')
+
+    return df
+
 # Ruta a la carpeta que contiene los archivos CSV
 ruta_carpeta = "data"
 
@@ -104,7 +123,11 @@ dataframe_completo = dataframe_completo.drop(columns=columnas_a_eliminar, errors
 
 dataframe_completo['Equipo_visitante'] = dataframe_completo['Equipo_visitante'].str.split(' ›').str[0]
 
+# Aplicar la función para rellenar las puntuaciones
+dataframe_completo = rellenar_puntuaciones(dataframe_completo)
+
 # Mostrar una muestra de los datos limpios y procesados
 print(dataframe_completo.head())
 
+# Guardar el DataFrame completo en un archivo CSV
 dataframe_completo.to_csv('dataframe_completo.csv', index=False)
