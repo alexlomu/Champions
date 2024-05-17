@@ -40,13 +40,11 @@ print("Precisión del modelo en datos de prueba:", precision)
 partidos_semifinales_ida = pd.DataFrame({
     'Equipo_local': ['Borussia Dortmund', 'Bayern München'],
     'Equipo_visitante': ['Paris Saint-Germain', 'Real Madrid'],
-    'Diferencia_goles': [None, None]  # No tenemos información sobre la diferencia de goles para estos partidos
 })
 
 partidos_semifinales_vuelta = pd.DataFrame({
     'Equipo_local': ['Paris Saint-Germain', 'Real Madrid'],
     'Equipo_visitante': ['Borussia Dortmund', 'Bayern München'],
-    'Diferencia_goles': [None, None]  # No tenemos información sobre la diferencia de goles para estos partidos
 })
 
 # Codificar variables categóricas para los partidos de semifinales (ida y vuelta)
