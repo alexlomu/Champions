@@ -26,10 +26,11 @@ X_train_encoded = pd.get_dummies(X_train)
 X_test_encoded = pd.get_dummies(X_test)
 
 # Asegurarse de que las columnas de los datos de entrenamiento y prueba coincidan exactamente
-# Esto es importante para garantizar que las columnas se codifiquen de la misma manera
 common_columns = X_train_encoded.columns.intersection(X_test_encoded.columns) 
 X_train_encoded = X_train_encoded[common_columns]
 X_test_encoded = X_test_encoded[common_columns]
+
+print(f"Columns after encoding: {common_columns}")
 
 # Imputar los valores perdidos con la mediana
 imputer = SimpleImputer(strategy='most_frequent')
@@ -46,7 +47,10 @@ X_test_scaled = scaler.transform(X_test_imputed)
 # Construir y entrenar el modelo de Regresión Gaussiana
 kernel = 1.0 * RBF(1.0)
 modelo_gaussiano = GaussianProcessClassifier(kernel=kernel, random_state=42)
+
+print("Entrenando el modelo...")
 modelo_gaussiano.fit(X_train_scaled, y_train)
+print("Modelo entrenado.")
 
 # Realizar predicciones sobre los partidos de prueba
 predicciones = modelo_gaussiano.predict(X_test_scaled)
@@ -67,8 +71,10 @@ enfrentamientos_encoded = pd.get_dummies(enfrentamientos)
 # Asegurarse de que las columnas de los enfrentamientos coincidan exactamente con las del entrenamiento
 enfrentamientos_encoded = enfrentamientos_encoded.reindex(columns=X_train_encoded.columns, fill_value=0)
 
+print("Realizando predicciones sobre los enfrentamientos...")
 # Realizar predicciones sobre los enfrentamientos
 predicciones_enfrentamientos = modelo_gaussiano.predict(enfrentamientos_encoded)
+print("Predicciones realizadas.")
 
 # Presentar los resultados de los enfrentamientos
 for i, (equipo_local, equipo_visitante) in enumerate(zip(enfrentamientos['Equipo_local'], enfrentamientos['Equipo_visitante'])):
