@@ -1,45 +1,29 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, LabelEncoder
-from xgboost import XGBClassifier
+from xgboost import XGBRegressor
 import numpy as np
 
 # Cargar los datos
 dataframe_completo = pd.read_csv("dataframe_completo.csv")
 
-# Calcular el resultado del partido (quién ganó y por cuánto)
-dataframe_completo['Resultado'] = dataframe_completo.apply(
-    lambda x: 'Empate' if x['Puntuacion_local'] == x['Puntuacion_visitante'] else 'Local' if x['Puntuacion_local'] > x['Puntuacion_visitante'] else 'Visitante',
-    axis=1
-)
-dataframe_completo['Diferencia_goles'] = dataframe_completo['Puntuacion_local'] - dataframe_completo['Puntuacion_visitante']
+# Dividir los datos en características (X) y etiquetas (y) para goles locales y visitantes
+X = dataframe_completo[['Equipo_local', 'Equipo_visitante']]
+y_local = dataframe_completo['Puntuacion_local']
+y_visitante = dataframe_completo['Puntuacion_visitante']
 
 # Dividir los datos en conjunto de entrenamiento y prueba
-X = dataframe_completo[['Equipo_local', 'Equipo_visitante', 'Diferencia_goles']]
-y = dataframe_completo['Resultado_final']  # Utilizar la columna correcta
-
-# Convertir clases categóricas a valores numéricos
-label_encoder = LabelEncoder()
-y_encoded = label_encoder.fit_transform(y)
-
-# Asegurar que las clases sean consistentes
-unique_classes = np.unique(y_encoded)
-expected_classes = np.arange(len(unique_classes))
-class_mapping = dict(zip(unique_classes, expected_classes))
-y_encoded = np.array([class_mapping[c] for c in y_encoded])
-
-# Dividir los datos de entrenamiento y prueba
-X_train, X_test, y_train, y_test = train_test_split(X, y_encoded, test_size=0.2, random_state=42)
+X_train, X_test, y_train_local, y_test_local, y_train_visitante, y_test_visitante = train_test_split(
+    X, y_local, y_visitante, test_size=0.2, random_state=42
+)
 
 # Codificar variables categóricas para los datos de entrenamiento y prueba
 X_train_encoded = pd.get_dummies(X_train)
 X_test_encoded = pd.get_dummies(X_test)
 
 # Asegurarse de que las columnas de los datos de entrenamiento y prueba coincidan exactamente
-# Esto es importante para garantizar que las columnas se codifiquen de la misma manera
-common_columns = X_train_encoded.columns.intersection(X_test_encoded.columns) 
+common_columns = X_train_encoded.columns.intersection(X_test_encoded.columns)
 X_train_encoded = X_train_encoded[common_columns]
 X_test_encoded = X_test_encoded[common_columns]
 
@@ -55,24 +39,28 @@ scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train_imputed)
 X_test_scaled = scaler.transform(X_test_imputed)
 
-# Construir el modelo XGBoost
-modelo_xgboost = XGBClassifier(random_state=42)
+# Construir los modelos XGBoost para goles locales y visitantes
+modelo_xgboost_local = XGBRegressor(random_state=42)
+modelo_xgboost_visitante = XGBRegressor(random_state=42)
 
-# Entrenar el modelo
-modelo_xgboost.fit(X_train_scaled, y_train)
+# Entrenar los modelos
+modelo_xgboost_local.fit(X_train_scaled, y_train_local)
+modelo_xgboost_visitante.fit(X_train_scaled, y_train_visitante)
 
 # Realizar predicciones sobre los partidos de prueba
-predicciones = modelo_xgboost.predict(X_test_scaled)
+predicciones_local = modelo_xgboost_local.predict(X_test_scaled)
+predicciones_visitante = modelo_xgboost_visitante.predict(X_test_scaled)
 
-# Calcular la precisión del modelo en los datos de prueba
-precision = accuracy_score(y_test, predicciones)
-print("Precisión del modelo en datos de prueba:", precision)
+# Calcular la precisión de los modelos (usando el error cuadrático medio como métrica)
+mse_local = np.mean((predicciones_local - y_test_local) ** 2)
+mse_visitante = np.mean((predicciones_visitante - y_test_visitante) ** 2)
+print("Error cuadrático medio del modelo para goles locales:", mse_local)
+print("Error cuadrático medio del modelo para goles visitantes:", mse_visitante)
 
 # Definir los partidos de enfrentamiento
 enfrentamientos = pd.DataFrame({
     'Equipo_local': ['Real Madrid'],
-    'Equipo_visitante': ['Paris Saint-Germain'],
-    'Diferencia_goles': [0]
+    'Equipo_visitante': ['Paris Saint-Germain']
 })
 
 # Codificar variables categóricas para los enfrentamientos
@@ -82,8 +70,13 @@ enfrentamientos_encoded = pd.get_dummies(enfrentamientos)
 enfrentamientos_encoded = enfrentamientos_encoded.reindex(columns=X_train_encoded.columns, fill_value=0)
 
 # Realizar predicciones sobre los enfrentamientos
-predicciones_enfrentamientos = modelo_xgboost.predict(enfrentamientos_encoded)
+predicciones_enfrentamientos_local = modelo_xgboost_local.predict(enfrentamientos_encoded)
+predicciones_enfrentamientos_visitante = modelo_xgboost_visitante.predict(enfrentamientos_encoded)
+
+# Redondear las predicciones al número entero más cercano
+predicciones_enfrentamientos_local = np.round(predicciones_enfrentamientos_local).astype(int)
+predicciones_enfrentamientos_visitante = np.round(predicciones_enfrentamientos_visitante).astype(int)
 
 # Presentar los resultados de los enfrentamientos
 for i, (equipo_local, equipo_visitante) in enumerate(zip(enfrentamientos['Equipo_local'], enfrentamientos['Equipo_visitante'])):
-    print(f"Partido: {equipo_local} vs {equipo_visitante}, Predicción: {label_encoder.classes_[predicciones_enfrentamientos[i]]}")
+    print(f"Partido: {equipo_local} vs {equipo_visitante}, Predicción de marcador: {predicciones_enfrentamientos_local[i]} - {predicciones_enfrentamientos_visitante[i]}")
